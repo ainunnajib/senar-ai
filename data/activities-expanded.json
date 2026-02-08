@@ -1,0 +1,5601 @@
+[
+  {
+    "id": 1,
+    "name": "Senarai's Multiple Literacies",
+    "description": "Our own attempt in defining multiple literacies for 21st century. Mental modelnya: fardhu 'ain untuk setiap manusia di abad ke-21",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 2,
+    "name": "Tiny Thinkers",
+    "description": "Daftar aktivitas/permainan online & offline untuk Computational Thinking anak-anak mulai usia 4 tahun ke atas",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 3,
+    "name": "CS Unplugged",
+    "description": "Belajar computer science tanpa perlu komputer. Aktivitas menarik sehari-hari.",
+    "category": "SD ke atas",
+    "url": "https://csunplugged.org/"
+  },
+  {
+    "id": 4,
+    "name": "Typing Club",
+    "description": "Belajar huruf dan 10-finger-typing buat anak-anak",
+    "category": "SD ke atas",
+    "url": "https://www.typingclub.com/"
+  },
+  {
+    "id": 5,
+    "name": "Typer Shark Deluxe",
+    "description": "Game komputer (Windows) mengetik 10 jari",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 6,
+    "name": "Belajar Dasar Catur",
+    "description": "Belajar langkah & aturan catur dari nol",
+    "category": "Semua Usia",
+    "url": "https://www.chess.com/learn"
+  },
+  {
+    "id": 7,
+    "name": "Aplikasi Khan Academy Kids",
+    "description": "Menemani anak usia 2-8 tahun belajar",
+    "category": "PAUD",
+    "url": "https://www.khanacademykids.org/"
+  },
+  {
+    "id": 8,
+    "name": "Khan Academy",
+    "description": "Referensi belajar daring bagi anak, guru, dan orang tua",
+    "category": "Semua Usia",
+    "url": "https://www.khanacademy.org/"
+  },
+  {
+    "id": 9,
+    "name": "Code Spark",
+    "description": "Aplikasi berbayar gamifikasi building block",
+    "category": "PAUD ke atas",
+    "url": "https://codespark.com/"
+  },
+  {
+    "id": 10,
+    "name": "Forest School",
+    "description": "Aktivitas di alam yang terpimpin oleh anak",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 11,
+    "name": "Conversation Cards",
+    "description": "Kartu-kartu untuk memulai obrolan bebas bersama anak-anak",
+    "category": "Semua Usia",
+    "url": ""
+  },
+  {
+    "id": 12,
+    "name": "Big Life Journal",
+    "description": "Science-based journals to raise kind, resilient, confident children",
+    "category": "PAUD ke atas",
+    "url": "https://biglifejournal.com/"
+  },
+  {
+    "id": 13,
+    "name": "Premier Piano Course",
+    "description": "Buku kursus piano untuk anak",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 14,
+    "name": "Young Engineers",
+    "description": "Belajar robotik dan STEM menggunakan LEGO",
+    "category": "PAUD ke atas",
+    "url": "https://www.youngeng.com/"
+  },
+  {
+    "id": 15,
+    "name": "Codeforces",
+    "description": "Belajar programming secara kompetitif",
+    "category": "SD ke atas",
+    "url": "https://codeforces.com/"
+  },
+  {
+    "id": 16,
+    "name": "TLX (Tim Olimpiade Komputer Indonesia)",
+    "description": "Belajar programming secara kompetitif",
+    "category": "SD ke atas",
+    "url": "https://tlx.toki.id/"
+  },
+  {
+    "id": 17,
+    "name": "Kattis",
+    "description": "Belajar programming secara kompetitif",
+    "category": "SD ke atas",
+    "url": "https://open.kattis.com/"
+  },
+  {
+    "id": 18,
+    "name": "LeetCode",
+    "description": "Platform berlatih interview & tes programming",
+    "category": "Profesional",
+    "url": "https://leetcode.com/"
+  },
+  {
+    "id": 19,
+    "name": "Matific",
+    "description": "Math learning platform",
+    "category": "PAUD ke atas",
+    "url": "https://www.matific.com/"
+  },
+  {
+    "id": 20,
+    "name": "Koobits",
+    "description": "Math learning platform",
+    "category": "SD ke atas",
+    "url": "https://www.koobits.com/"
+  },
+  {
+    "id": 21,
+    "name": "Matholia",
+    "description": "Math learning platform",
+    "category": "SD ke atas",
+    "url": "https://www.matholia.com/"
+  },
+  {
+    "id": 22,
+    "name": "Code Monkey",
+    "description": "Kids friendly coding introduction",
+    "category": "PAUD ke atas",
+    "url": "https://www.codemonkey.com/"
+  },
+  {
+    "id": 23,
+    "name": "Scratch (MIT)",
+    "description": "Visual coding",
+    "category": "SD ke atas",
+    "url": "https://scratch.mit.edu/"
+  },
+  {
+    "id": 24,
+    "name": "Snap (Berkeley)",
+    "description": "Visual coding",
+    "category": "SD ke atas",
+    "url": "https://snap.berkeley.edu/"
+  },
+  {
+    "id": 25,
+    "name": "Node RED",
+    "description": "Visual coding for IoT devices",
+    "category": "SMP ke atas",
+    "url": "https://nodered.org/"
+  },
+  {
+    "id": 26,
+    "name": "LEGO Education",
+    "description": "Learn STEM, Robotics, Visual Coding",
+    "category": "SD ke atas",
+    "url": "https://education.lego.com/"
+  },
+  {
+    "id": 27,
+    "name": "LEGO Education BricQ",
+    "description": "STEM with LEGO",
+    "category": "SD ke atas",
+    "url": "https://education.lego.com/en-us/product-resources/elementary/bricq-motion-essential/"
+  },
+  {
+    "id": 28,
+    "name": "LEGO Boost",
+    "description": "LEGO robotics",
+    "category": "SD",
+    "url": "https://www.lego.com/en-us/product/boost-creative-toolbox-17101"
+  },
+  {
+    "id": 29,
+    "name": "LEGO Education WeDo 2.0",
+    "description": "Early robotics",
+    "category": "PAUD",
+    "url": "https://education.lego.com/en-us/product-resources/elementary/wedo-2/"
+  },
+  {
+    "id": 30,
+    "name": "First LEGO League",
+    "description": "LEGO competition",
+    "category": "SD ke atas",
+    "url": "https://www.firstlegoleague.org/"
+  },
+  {
+    "id": 31,
+    "name": "Elenco Snap Circuit",
+    "description": "Belajar circuitry (sirkuit elektronik)",
+    "category": "SD",
+    "url": "https://www.elenco.com/snap-circuits/"
+  },
+  {
+    "id": 32,
+    "name": "Elenco educational toys",
+    "description": "Educational toys dari Elenco",
+    "category": "PAUD ke atas",
+    "url": "https://www.elenco.com/"
+  },
+  {
+    "id": 33,
+    "name": "Machine Learning for Kids",
+    "description": "Scratch untuk belajar ML",
+    "category": "SD ke atas",
+    "url": "https://machinelearningforkids.co.uk/"
+  },
+  {
+    "id": 34,
+    "name": "while True: learn()",
+    "description": "Game to learn coding & ML",
+    "category": "SD ke atas",
+    "url": "https://luden.io/wtl/"
+  },
+  {
+    "id": 35,
+    "name": "Swift Playground",
+    "description": "Code in Mac or iPad",
+    "category": "PAUD ke atas",
+    "url": "https://www.apple.com/swift/playgrounds/"
+  },
+  {
+    "id": 36,
+    "name": "FreeCodeCamp",
+    "description": "Free coding learning platform",
+    "category": "SMP ke atas",
+    "url": "https://www.freecodecamp.org/"
+  },
+  {
+    "id": 37,
+    "name": "Python for Everybody - Coursera",
+    "description": "Top rated Python course",
+    "category": "SD ke atas",
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "id": 38,
+    "name": "Little Pim",
+    "description": "Belajar bahasa asing untuk anak, metode Pimsleur",
+    "category": "PAUD ke atas",
+    "url": "https://littlepim.com/"
+  },
+  {
+    "id": 39,
+    "name": "Barbara Oakley's Learning How to Learn",
+    "description": "Meta learning",
+    "category": "SMP ke atas",
+    "url": "https://www.coursera.org/learn/learning-how-to-learn"
+  },
+  {
+    "id": 40,
+    "name": "Barbara Oakley's books",
+    "description": "How to learn",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 41,
+    "name": "Exercism",
+    "description": "Free programming languages learning",
+    "category": "SD ke atas",
+    "url": "https://exercism.org/"
+  },
+  {
+    "id": 42,
+    "name": "Book - Thrivers",
+    "description": "Build character strength of children",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 43,
+    "name": "Book - UnSelfie",
+    "description": "To teach empathy",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 44,
+    "name": "HSP test",
+    "description": "Online test to assess sensitivity",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 45,
+    "name": "Book - The Highly Sensitive Child",
+    "description": "",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 46,
+    "name": "Books about highly sensitive person",
+    "description": "Elaine N. Aron",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 47,
+    "name": "Common Sense",
+    "description": "Parenting in digital age",
+    "category": "For Parents",
+    "url": "https://www.commonsensemedia.org/"
+  },
+  {
+    "id": 48,
+    "name": "Wide Open School",
+    "description": "Trusted resources for distance learning",
+    "category": "For Parents",
+    "url": "https://wideopenschool.org/"
+  },
+  {
+    "id": 49,
+    "name": "Khan Academy Distance Learning Guide",
+    "description": "",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 50,
+    "name": "Bebras",
+    "description": "Computational Thinking initiative",
+    "category": "SD ke atas",
+    "url": "https://www.bebras.org/"
+  },
+  {
+    "id": 51,
+    "name": "Bebras Indonesia",
+    "description": "Bebras versi Indonesia",
+    "category": "SD ke atas",
+    "url": "https://bebras.or.id/"
+  },
+  {
+    "id": 52,
+    "name": "Bebras online challenge",
+    "description": "",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 53,
+    "name": "Khan Academy Kids Printable Activities",
+    "description": "",
+    "category": "PAUD",
+    "url": ""
+  },
+  {
+    "id": 54,
+    "name": "MoE Singapore 21st century competencies",
+    "description": "",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 55,
+    "name": "Big History Projects",
+    "description": "History of universe, by Bill Gates",
+    "category": "SD ke atas",
+    "url": "https://www.bighistoryproject.com/"
+  },
+  {
+    "id": 56,
+    "name": "Mr Rogers",
+    "description": "Character building via TV shows",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 57,
+    "name": "PBS Kids Mister Rogers",
+    "description": "Watch Mister Rogers",
+    "category": "PAUD ke atas",
+    "url": "https://pbskids.org/rogers/"
+  },
+  {
+    "id": 58,
+    "name": "PBS Kids YouTube Mister Rogers",
+    "description": "",
+    "category": "PAUD ke atas",
+    "url": "https://www.youtube.com/user/pbskids"
+  },
+  {
+    "id": 59,
+    "name": "Roblox",
+    "description": "Virtual learning platform",
+    "category": "SD ke atas",
+    "url": "https://www.roblox.com/"
+  },
+  {
+    "id": 60,
+    "name": "Minecraft",
+    "description": "Virtual world for kids",
+    "category": "SD ke atas",
+    "url": "https://www.minecraft.net/"
+  },
+  {
+    "id": 61,
+    "name": "Tinkercad",
+    "description": "3D design for children",
+    "category": "SD ke atas",
+    "url": "https://www.tinkercad.com/"
+  },
+  {
+    "id": 62,
+    "name": "MakeIT Lab @ National Libraries (SG only)",
+    "description": "",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 63,
+    "name": "Envato",
+    "description": "Marketplace of digital creative assets",
+    "category": "SMA ke atas",
+    "url": "https://envato.com/"
+  },
+  {
+    "id": 64,
+    "name": "Replit",
+    "description": "Code collaboration platform",
+    "category": "SD ke atas",
+    "url": "https://replit.com/"
+  },
+  {
+    "id": 65,
+    "name": "GitHub Learning Lab",
+    "description": "Learn Git with GitHub",
+    "category": "SMP ke atas",
+    "url": "https://github.com/apps/github-learning-lab"
+  },
+  {
+    "id": 66,
+    "name": "Creative Market",
+    "description": "Marketplace for designs",
+    "category": "SMP ke atas",
+    "url": "https://creativemarket.com/"
+  },
+  {
+    "id": 67,
+    "name": "Selingkar literasi",
+    "description": "Kegiatan berbasis literasi",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 68,
+    "name": "Literacy Cloud",
+    "description": "Baca buku berkualitas gratis",
+    "category": "Semua Usia",
+    "url": "https://literacycloud.org/"
+  },
+  {
+    "id": 69,
+    "name": "Let's read asia",
+    "description": "Platform baca buku gratis",
+    "category": "PAUD ke atas",
+    "url": "https://reader.letsreadasia.org/"
+  },
+  {
+    "id": 70,
+    "name": "Beast Academy",
+    "description": "Math yang lebih challenging",
+    "category": "SD ke atas",
+    "url": "https://beastacademy.com/"
+  },
+  {
+    "id": 71,
+    "name": "Art of Problem Solving",
+    "description": "Math challenging",
+    "category": "SMP",
+    "url": "https://artofproblemsolving.com/"
+  },
+  {
+    "id": 72,
+    "name": "Coding for Kids",
+    "description": "Dasar pemrograman usia 5-12",
+    "category": "PAUD",
+    "url": ""
+  },
+  {
+    "id": 73,
+    "name": "Belajar Bahasa",
+    "description": "Belajar bahasa game-based",
+    "category": "Semua Usia",
+    "url": ""
+  },
+  {
+    "id": 74,
+    "name": "7 habits for highly effective people",
+    "description": "Pengembangan diri",
+    "category": "SMA",
+    "url": ""
+  },
+  {
+    "id": 75,
+    "name": "Aikido Orchid Dojo (Bekasi)",
+    "description": "Bela diri",
+    "category": "Semua Usia",
+    "url": ""
+  },
+  {
+    "id": 76,
+    "name": "Literasi tulis",
+    "description": "Kecerdasan literasi",
+    "category": "SD",
+    "url": ""
+  },
+  {
+    "id": 77,
+    "name": "TPQ Online ALBATA",
+    "description": "Belajar Al Quran & Islam dasar online",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 78,
+    "name": "Enuma Indonesia",
+    "description": "Literasi bahasa Indonesia app",
+    "category": "PAUD ke atas",
+    "url": "https://www.enuma.com/"
+  },
+  {
+    "id": 79,
+    "name": "Belajar Design",
+    "description": "UI Design learning path",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 80,
+    "name": "Upskill untuk entrepreneur & profesional",
+    "description": "",
+    "category": "Profesional",
+    "url": ""
+  },
+  {
+    "id": 81,
+    "name": "LingoKids",
+    "description": "Aplikasi bermain dan belajar",
+    "category": "PAUD",
+    "url": "https://lingokids.com/"
+  },
+  {
+    "id": 82,
+    "name": "Buku Gen Z Developer",
+    "description": "Software development",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 83,
+    "name": "Kalananti Coding",
+    "description": "Coding usia 5-12",
+    "category": "SD",
+    "url": ""
+  },
+  {
+    "id": 84,
+    "name": "Novakid English School",
+    "description": "Online English private",
+    "category": "PAUD ke atas",
+    "url": "https://www.novakid.com/"
+  },
+  {
+    "id": 85,
+    "name": "Monkey Stories",
+    "description": "Belajar English game-based 2-10 tahun",
+    "category": "PAUD ke atas",
+    "url": "https://www.monkeystories.com/"
+  },
+  {
+    "id": 86,
+    "name": "Little Public Speaker",
+    "description": "Kelas public speaking 4-7",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 87,
+    "name": "Mobile App Builder",
+    "description": "Membuat mobile app",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 88,
+    "name": "Wordpress",
+    "description": "Membuat website",
+    "category": "SMA ke atas",
+    "url": "https://wordpress.com/"
+  },
+  {
+    "id": 89,
+    "name": "Github Education Pack",
+    "description": "Lisensi dan sumber belajar pelajar",
+    "category": "Kuliah",
+    "url": "https://education.github.com/"
+  },
+  {
+    "id": 90,
+    "name": "IDCamp",
+    "description": "Beasiswa coding Indosat & Dicoding",
+    "category": "Profesional",
+    "url": "https://idcamp.ioh.co.id/"
+  },
+  {
+    "id": 91,
+    "name": "Digital Talent Scholarship Kominfo",
+    "description": "Beasiswa talenta digital",
+    "category": "Profesional",
+    "url": "https://digitalent.kominfo.go.id/"
+  },
+  {
+    "id": 92,
+    "name": "IXL",
+    "description": "Math dan English TK ke atas",
+    "category": "PAUD ke atas",
+    "url": "https://www.ixl.com/"
+  },
+  {
+    "id": 93,
+    "name": "Brilliant",
+    "description": "Interactive STEM courses",
+    "category": "SD ke atas",
+    "url": "https://brilliant.org/"
+  },
+  {
+    "id": 94,
+    "name": "DK findout",
+    "description": "Ilmu pengetahuan dari DK publishing",
+    "category": "SD",
+    "url": "https://www.dkfindout.com/"
+  },
+  {
+    "id": 95,
+    "name": "Belajar Menjadi UI Designer",
+    "description": "UI Design panduan",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 96,
+    "name": "Code.org",
+    "description": "Belajar coding",
+    "category": "SD ke atas",
+    "url": "https://code.org/"
+  },
+  {
+    "id": 97,
+    "name": "EveryChild.SG",
+    "description": "Advokasi pendidikan masa depan SG",
+    "category": "For Parents",
+    "url": ""
+  },
+  {
+    "id": 98,
+    "name": "Ambleside Online",
+    "description": "Kurikulum homeschooling gratis Charlotte Mason",
+    "category": "For Parents",
+    "url": "https://amblesideonline.org/"
+  },
+  {
+    "id": 99,
+    "name": "Codecademy",
+    "description": "Platform pembelajaran coding interaktif dengan hands-on projects untuk semua tingkatan",
+    "category": "SMP ke atas",
+    "url": "https://www.codecademy.com/"
+  },
+  {
+    "id": 100,
+    "name": "CodeHS",
+    "description": "Platform pembelajaran coding untuk sekolah dengan kurikulum terstruktur",
+    "category": "SMP ke atas",
+    "url": "https://codehs.com/"
+  },
+  {
+    "id": 101,
+    "name": "Tynker",
+    "description": "Platform coding untuk anak dengan block programming dan proyek kreatif",
+    "category": "SD ke atas",
+    "url": "https://www.tynker.com/"
+  },
+  {
+    "id": 102,
+    "name": "Lightbot",
+    "description": "Game puzzle programming yang mengajarkan konsep dasar coding",
+    "category": "SD ke atas",
+    "url": "https://lightbot.com/"
+  },
+  {
+    "id": 103,
+    "name": "Hopscotch",
+    "description": "Aplikasi iPad untuk anak belajar programming dengan membuat game",
+    "category": "SD ke atas",
+    "url": "https://www.gethopscotch.com/"
+  },
+  {
+    "id": 104,
+    "name": "SoloLearn",
+    "description": "Platform mobile learning untuk coding dengan komunitas global",
+    "category": "SMP ke atas",
+    "url": "https://www.sololearn.com/"
+  },
+  {
+    "id": 105,
+    "name": "Mimo",
+    "description": "Aplikasi mobile untuk belajar coding dengan pelajaran singkat",
+    "category": "SMP ke atas",
+    "url": "https://getmimo.com/"
+  },
+  {
+    "id": 106,
+    "name": "Grasshopper",
+    "description": "Aplikasi Google untuk belajar JavaScript dengan visual blocks",
+    "category": "SMP ke atas",
+    "url": "https://grasshopper.app/"
+  },
+  {
+    "id": 107,
+    "name": "CodeCombat",
+    "description": "Game RPG untuk belajar coding dengan Python dan JavaScript",
+    "category": "SD ke atas",
+    "url": "https://codecombat.com/"
+  },
+  {
+    "id": 108,
+    "name": "CheckiO",
+    "description": "Game coding untuk belajar Python dan JavaScript melalui puzzle",
+    "category": "SMP ke atas",
+    "url": "https://checkio.org/"
+  },
+  {
+    "id": 109,
+    "name": "CodinGame",
+    "description": "Platform competitive programming dengan game dan tantangan",
+    "category": "SMA ke atas",
+    "url": "https://www.codingame.com/"
+  },
+  {
+    "id": 110,
+    "name": "HackerRank",
+    "description": "Platform untuk latihan coding dan persiapan technical interview",
+    "category": "Profesional",
+    "url": "https://www.hackerrank.com/"
+  },
+  {
+    "id": 111,
+    "name": "Project Euler",
+    "description": "Kumpulan soal matematika yang membutuhkan programming untuk diselesaikan",
+    "category": "SMA ke atas",
+    "url": "https://projecteuler.net/"
+  },
+  {
+    "id": 112,
+    "name": "Rosalind",
+    "description": "Platform belajar bioinformatics programming dengan Python",
+    "category": "Kuliah",
+    "url": "http://rosalind.info/"
+  },
+  {
+    "id": 113,
+    "name": "USACO Training",
+    "description": "Training untuk USA Computing Olympiad dengan soal algoritmik",
+    "category": "SMA ke atas",
+    "url": "https://train.usaco.org/"
+  },
+  {
+    "id": 114,
+    "name": "Mathway",
+    "description": "AI-powered math problem solver untuk semua tingkat matematika",
+    "category": "SMP ke atas",
+    "url": "https://www.mathway.com/"
+  },
+  {
+    "id": 115,
+    "name": "Photomath",
+    "description": "Aplikasi yang memindai dan menyelesaikan soal matematika dengan langkah-langkah",
+    "category": "SD ke atas",
+    "url": "https://photomath.net/"
+  },
+  {
+    "id": 116,
+    "name": "Prodigy",
+    "description": "Game matematika RPG untuk anak SD dengan kurikulum aligned",
+    "category": "SD",
+    "url": "https://www.prodigygame.com/"
+  },
+  {
+    "id": 117,
+    "name": "DreamBox",
+    "description": "Platform pembelajaran matematika adaptif untuk K-8",
+    "category": "SD ke atas",
+    "url": "https://www.dreambox.com/"
+  },
+  {
+    "id": 118,
+    "name": "Zearn",
+    "description": "Platform matematika dengan video pembelajaran dan latihan interaktif",
+    "category": "SD ke atas",
+    "url": "https://www.zearn.org/"
+  },
+  {
+    "id": 119,
+    "name": "ST Math",
+    "description": "Program matematika visual yang membangun pemahaman konsep matematika",
+    "category": "PAUD ke atas",
+    "url": "https://www.stmath.com/"
+  },
+  {
+    "id": 120,
+    "name": "GeoGebra",
+    "description": "Software matematika untuk geometri, aljabar, statistik, dan kalkulus",
+    "category": "SMP ke atas",
+    "url": "https://www.geogebra.org/"
+  },
+  {
+    "id": 121,
+    "name": "Desmos",
+    "description": "Kalkulator graphing online gratis dengan tools matematika interaktif",
+    "category": "SMP ke atas",
+    "url": "https://www.desmos.com/"
+  },
+  {
+    "id": 122,
+    "name": "Numberblocks",
+    "description": "Serial TV edukatif BBC untuk belajar matematika anak usia dini",
+    "category": "PAUD",
+    "url": "https://www.bbc.co.uk/iplayer/episodes/b08bzfnh/numberblocks"
+  },
+  {
+    "id": 123,
+    "name": "Math Antics",
+    "description": "Video pembelajaran matematika yang mudah dipahami untuk semua tingkat",
+    "category": "SD ke atas",
+    "url": "https://mathantics.com/"
+  },
+  {
+    "id": 124,
+    "name": "3Blue1Brown",
+    "description": "Channel YouTube dengan visualisasi matematika yang menakjubkan",
+    "category": "SMA ke atas",
+    "url": "https://www.3blue1brown.com/"
+  },
+  {
+    "id": 125,
+    "name": "Mathigon",
+    "description": "Platform matematika interaktif dengan timeline sejarah matematika",
+    "category": "SMP ke atas",
+    "url": "https://mathigon.org/"
+  },
+  {
+    "id": 126,
+    "name": "PhET Simulations",
+    "description": "Simulasi interaktif gratis untuk sains dan matematika dari University of Colorado",
+    "category": "SD ke atas",
+    "url": "https://phet.colorado.edu/"
+  },
+  {
+    "id": 127,
+    "name": "NASA STEM",
+    "description": "Sumber daya pendidikan STEM dari NASA untuk semua usia",
+    "category": "SD ke atas",
+    "url": "https://www.nasa.gov/audience/foreducators/"
+  },
+  {
+    "id": 128,
+    "name": "Mystery Science",
+    "description": "Pelajaran sains mini untuk SD dengan pertanyaan menarik",
+    "category": "SD",
+    "url": "https://mysteryscience.com/"
+  },
+  {
+    "id": 129,
+    "name": "Generation Genius",
+    "description": "Video sains untuk K-5 dengan eksperimen dan aktivitas",
+    "category": "SD",
+    "url": "https://www.generationgenius.com/"
+  },
+  {
+    "id": 130,
+    "name": "Tinybop",
+    "description": "Koleksi aplikasi edukatif sains untuk anak dengan eksplorasi interaktif",
+    "category": "PAUD ke atas",
+    "url": "https://tinybop.com/"
+  },
+  {
+    "id": 131,
+    "name": "MEL Science",
+    "description": "Kit sains berlangganan dengan VR dan eksperimen hands-on",
+    "category": "SD ke atas",
+    "url": "https://melscience.com/"
+  },
+  {
+    "id": 132,
+    "name": "KiwiCo",
+    "description": "Kit STEM berlangganan untuk berbagai usia dengan proyek hands-on",
+    "category": "PAUD ke atas",
+    "url": "https://www.kiwico.com/"
+  },
+  {
+    "id": 133,
+    "name": "Osmo",
+    "description": "Mainan edukatif yang menggabungkan dunia fisik dan digital",
+    "category": "PAUD ke atas",
+    "url": "https://www.playosmo.com/"
+  },
+  {
+    "id": 134,
+    "name": "Sphero",
+    "description": "Robot programmable untuk belajar coding dan STEM",
+    "category": "SD ke atas",
+    "url": "https://sphero.com/"
+  },
+  {
+    "id": 135,
+    "name": "Arduino",
+    "description": "Platform prototyping elektronik open-source untuk proyek STEM",
+    "category": "SMP ke atas",
+    "url": "https://www.arduino.cc/"
+  },
+  {
+    "id": 136,
+    "name": "Raspberry Pi",
+    "description": "Single-board computer untuk belajar programming dan electronics",
+    "category": "SMP ke atas",
+    "url": "https://www.raspberrypi.org/"
+  },
+  {
+    "id": 137,
+    "name": "Duolingo",
+    "description": "Platform pembelajaran bahasa gamified paling populer di dunia",
+    "category": "SD ke atas",
+    "url": "https://www.duolingo.com/"
+  },
+  {
+    "id": 138,
+    "name": "Busuu",
+    "description": "Aplikasi pembelajaran bahasa dengan feedback dari native speakers",
+    "category": "SMP ke atas",
+    "url": "https://www.busuu.com/"
+  },
+  {
+    "id": 139,
+    "name": "Babbel",
+    "description": "Platform pembelajaran bahasa dengan fokus pada percakapan praktis",
+    "category": "SMP ke atas",
+    "url": "https://www.babbel.com/"
+  },
+  {
+    "id": 140,
+    "name": "Memrise",
+    "description": "Platform pembelajaran bahasa dengan video native speakers",
+    "category": "SD ke atas",
+    "url": "https://www.memrise.com/"
+  },
+  {
+    "id": 141,
+    "name": "HelloTalk",
+    "description": "Aplikasi pertukaran bahasa untuk berlatih dengan native speakers",
+    "category": "SMA ke atas",
+    "url": "https://www.hellotalk.com/"
+  },
+  {
+    "id": 142,
+    "name": "Tandem",
+    "description": "Platform pertukaran bahasa untuk berlatih dengan penutur asli",
+    "category": "SMA ke atas",
+    "url": "https://www.tandem.net/"
+  },
+  {
+    "id": 143,
+    "name": "italki",
+    "description": "Platform untuk belajar bahasa dengan guru private online",
+    "category": "SMP ke atas",
+    "url": "https://www.italki.com/"
+  },
+  {
+    "id": 144,
+    "name": "Preply",
+    "description": "Platform tutor online untuk berbagai bahasa dengan fleksibilitas jadwal",
+    "category": "SMP ke atas",
+    "url": "https://preply.com/"
+  },
+  {
+    "id": 145,
+    "name": "Mondly",
+    "description": "Platform pembelajaran bahasa dengan AR dan chatbot AI",
+    "category": "SD ke atas",
+    "url": "https://www.mondly.com/"
+  },
+  {
+    "id": 146,
+    "name": "Drops",
+    "description": "Aplikasi pembelajaran vocabulary dengan desain visual yang menarik",
+    "category": "SD ke atas",
+    "url": "https://languagedrops.com/"
+  },
+  {
+    "id": 147,
+    "name": "Rosetta Stone",
+    "description": "Platform pembelajaran bahasa dengan metode immersion total",
+    "category": "SMP ke atas",
+    "url": "https://www.rosettastone.com/"
+  },
+  {
+    "id": 148,
+    "name": "Epic!",
+    "description": "Digital library dengan 40K+ buku anak, audiobook, dan video edukatif",
+    "category": "PAUD ke atas",
+    "url": "https://www.getepic.com/"
+  },
+  {
+    "id": 149,
+    "name": "Raz-Kids",
+    "description": "Platform guided reading dengan leveled books dan quiz",
+    "category": "SD",
+    "url": "https://www.raz-kids.com/"
+  },
+  {
+    "id": 150,
+    "name": "ReadWorks",
+    "description": "Platform gratis dengan artikel dan aktivitas reading comprehension",
+    "category": "SD ke atas",
+    "url": "https://www.readworks.org/"
+  },
+  {
+    "id": 151,
+    "name": "Newsela",
+    "description": "Platform berita yang disesuaikan untuk berbagai tingkat reading level",
+    "category": "SMP ke atas",
+    "url": "https://newsela.com/"
+  },
+  {
+    "id": 152,
+    "name": "Storybird",
+    "description": "Platform untuk menulis dan membaca cerita digital kolaboratif",
+    "category": "SD ke atas",
+    "url": "https://storybird.com/"
+  },
+  {
+    "id": 153,
+    "name": "StoryWeaver",
+    "description": "Platform open-source dengan cerita anak dalam berbagai bahasa",
+    "category": "PAUD ke atas",
+    "url": "https://storyweaver.org.in/"
+  },
+  {
+    "id": 154,
+    "name": "Libby",
+    "description": "Aplikasi OverDrive untuk meminjam ebook dan audiobook dari perpustakaan",
+    "category": "SD ke atas",
+    "url": "https://libbyapp.com/"
+  },
+  {
+    "id": 155,
+    "name": "Audible Kids",
+    "description": "Koleksi audiobook dan podcast khusus untuk anak",
+    "category": "PAUD ke atas",
+    "url": "https://www.audible.com/ep/kids"
+  },
+  {
+    "id": 156,
+    "name": "Canva",
+    "description": "Platform design grafis online dengan template untuk semua kebutuhan",
+    "category": "SD ke atas",
+    "url": "https://www.canva.com/"
+  },
+  {
+    "id": 157,
+    "name": "Procreate",
+    "description": "Aplikasi digital painting dan ilustrasi untuk iPad",
+    "category": "SD ke atas",
+    "url": "https://procreate.art/"
+  },
+  {
+    "id": 158,
+    "name": "Simply Piano",
+    "description": "Aplikasi untuk belajar piano dengan lagu-lagu populer",
+    "category": "SD ke atas",
+    "url": "https://www.simplypiano.com/"
+  },
+  {
+    "id": 159,
+    "name": "Yousician",
+    "description": "Platform gamified untuk belajar piano, gitar, bass, ukulele, dan vokal",
+    "category": "SD ke atas",
+    "url": "https://yousician.com/"
+  },
+  {
+    "id": 160,
+    "name": "Flowkey",
+    "description": "Platform pembelajaran piano dengan lagu-lagu terkenal dan feedback real-time",
+    "category": "SMP ke atas",
+    "url": "https://www.flowkey.com/"
+  },
+  {
+    "id": 161,
+    "name": "Chrome Music Lab",
+    "description": "Koleksi eksperimen musik interaktif dari Google untuk eksplorasi suara",
+    "category": "PAUD ke atas",
+    "url": "https://musiclab.chromeexperiments.com/"
+  },
+  {
+    "id": 162,
+    "name": "Incredibox",
+    "description": "Aplikasi musik interaktif untuk membuat beat dan melody dengan beatboxers",
+    "category": "SD ke atas",
+    "url": "https://www.incredibox.com/"
+  },
+  {
+    "id": 163,
+    "name": "BandLab",
+    "description": "Platform creation musik online gratis dengan social networking",
+    "category": "SMP ke atas",
+    "url": "https://www.bandlab.com/"
+  },
+  {
+    "id": 164,
+    "name": "Greenlight",
+    "description": "Kartu debit dan aplikasi financial literacy untuk anak dan remaja",
+    "category": "SD ke atas",
+    "url": "https://www.greenlight.com/"
+  },
+  {
+    "id": 165,
+    "name": "BizKid$",
+    "description": "Show TV dan resources online untuk financial literacy dan entrepreneurship",
+    "category": "SD ke atas",
+    "url": "https://bizkids.com/"
+  },
+  {
+    "id": 166,
+    "name": "Tarteel",
+    "description": "Aplikasi AI untuk membaca Al-Quran dengan feedback tajwid",
+    "category": "SD ke atas",
+    "url": "https://www.tarteel.ai/"
+  },
+  {
+    "id": 167,
+    "name": "Quran.com",
+    "description": "Platform online Al-Quran dengan terjemahan dan audio dari berbagai qari",
+    "category": "Semua Usia",
+    "url": "https://quran.com/"
+  },
+  {
+    "id": 168,
+    "name": "Ruangguru",
+    "description": "Platform edukasi online terbesar Indonesia dengan live class dan tryout",
+    "category": "SD ke atas",
+    "url": "https://www.ruangguru.com/"
+  },
+  {
+    "id": 169,
+    "name": "Zenius",
+    "description": "Platform belajar online Indonesia dengan video pembelajaran dan bank soal",
+    "category": "SD ke atas",
+    "url": "https://www.zenius.net/"
+  },
+  {
+    "id": 170,
+    "name": "Pahamify",
+    "description": "Platform pembelajaran Indonesia dengan video animasi dan gamifikasi",
+    "category": "SMP ke atas",
+    "url": "https://pahamify.com/"
+  },
+  {
+    "id": 171,
+    "name": "Cakap",
+    "description": "Platform pembelajaran bahasa online Indonesia dengan live session",
+    "category": "SD ke atas",
+    "url": "https://www.cakap.com/"
+  },
+  {
+    "id": 172,
+    "name": "Bahaso",
+    "description": "Platform pembelajaran bahasa Inggris Indonesia dengan AI tutor",
+    "category": "SMP ke atas",
+    "url": "https://bahaso.com/"
+  },
+  {
+    "id": 173,
+    "name": "IndonesiaX",
+    "description": "MOOC platform Indonesia dengan kursus dari universitas terkemuka",
+    "category": "Kuliah",
+    "url": "https://www.indonesiax.co.id/"
+  },
+  {
+    "id": 174,
+    "name": "Dicoding",
+    "description": "Platform developer Indonesia untuk belajar coding dan teknologi",
+    "category": "SMA ke atas",
+    "url": "https://www.dicoding.com/"
+  },
+  {
+    "id": 175,
+    "name": "Hacktiv8",
+    "description": "Bootcamp coding intensif Indonesia untuk menjadi developer",
+    "category": "Profesional",
+    "url": "https://www.hacktiv8.com/"
+  },
+  {
+    "id": 176,
+    "name": "Purwadhika",
+    "description": "Digital school Indonesia untuk coding, digital marketing, dan data science",
+    "category": "Profesional",
+    "url": "https://purwadhika.com/"
+  },
+  {
+    "id": 177,
+    "name": "iNaturalist",
+    "description": "Platform citizen science untuk mengidentifikasi dan mencatat wildlife",
+    "category": "SD ke atas",
+    "url": "https://www.inaturalist.org/"
+  },
+  {
+    "id": 178,
+    "name": "Merlin Bird ID",
+    "description": "Aplikasi Cornell Lab untuk identifikasi burung dengan AI",
+    "category": "SD ke atas",
+    "url": "https://merlin.allaboutbirds.org/"
+  },
+  {
+    "id": 179,
+    "name": "Calm Kids",
+    "description": "Aplikasi meditasi dan mindfulness khusus untuk anak",
+    "category": "PAUD ke atas",
+    "url": "https://www.calm.com/kids"
+  },
+  {
+    "id": 180,
+    "name": "Headspace for Kids",
+    "description": "Konten mindfulness dan meditasi dari Headspace untuk anak",
+    "category": "PAUD ke atas",
+    "url": "https://www.headspace.com/kids"
+  },
+  {
+    "id": 181,
+    "name": "Smiling Mind",
+    "description": "Aplikasi mindfulness gratis dari Australia untuk semua usia",
+    "category": "PAUD ke atas",
+    "url": "https://www.smilingmind.com.au/"
+  },
+  {
+    "id": 182,
+    "name": "Lemonade Stand",
+    "description": "Game simulasi bisnis klasik untuk belajar entrepreneurship",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 183,
+    "name": "BizWorld",
+    "description": "Program entrepreneurship education untuk K-12",
+    "category": "SD ke atas",
+    "url": "https://www.bizworld.org/"
+  },
+  {
+    "id": 184,
+    "name": "Junior Achievement",
+    "description": "Organisasi global untuk business, entrepreneurship, dan financial literacy",
+    "category": "SD ke atas",
+    "url": "https://www.juniorachievement.org/"
+  },
+  {
+    "id": 185,
+    "name": "NFTE",
+    "description": "Network for Teaching Entrepreneurship - program entrepreneurship untuk remaja",
+    "category": "SMP ke atas",
+    "url": "https://www.nfte.com/"
+  },
+  {
+    "id": 186,
+    "name": "MIT App Inventor",
+    "description": "Platform visual programming untuk membuat aplikasi Android",
+    "category": "SMP ke atas",
+    "url": "https://appinventor.mit.edu/"
+  },
+  {
+    "id": 187,
+    "name": "Blockly Games",
+    "description": "Kumpulan game edukasi dari Google untuk belajar programming concepts",
+    "category": "SD ke atas",
+    "url": "https://blockly.games/"
+  },
+  {
+    "id": 188,
+    "name": "CS First",
+    "description": "Program computer science gratis dari Google untuk K-12",
+    "category": "SD ke atas",
+    "url": "https://csfirst.withgoogle.com/"
+  },
+  {
+    "id": 189,
+    "name": "Kodable",
+    "description": "Aplikasi pembelajaran coding untuk anak usia 4-10 tahun",
+    "category": "PAUD ke atas",
+    "url": "https://www.kodable.com/"
+  },
+  {
+    "id": 190,
+    "name": "Robot Turtles",
+    "description": "Board game untuk mengajarkan programming concepts kepada anak",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 191,
+    "name": "Cargo-Bot",
+    "description": "Game puzzle iPad untuk belajar programming logic",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 192,
+    "name": "Box Island",
+    "description": "Game adventure untuk belajar coding fundamentals",
+    "category": "SD ke atas",
+    "url": "https://boxisland.io/"
+  },
+  {
+    "id": 193,
+    "name": "Move the Turtle",
+    "description": "Aplikasi programming untuk anak dengan turtle graphics",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 194,
+    "name": "Daisy the Dinosaur",
+    "description": "Aplikasi intro programming untuk anak dengan character animation",
+    "category": "PAUD",
+    "url": ""
+  },
+  {
+    "id": 195,
+    "name": "Bee-Bot",
+    "description": "Robot programmable untuk anak PAUD belajar directional language dan programming",
+    "category": "PAUD",
+    "url": "https://www.bee-bot.us/"
+  },
+  {
+    "id": 196,
+    "name": "Cubetto",
+    "description": "Robot kayu dengan programming blocks untuk anak usia 3-6 tahun",
+    "category": "PAUD",
+    "url": "https://www.primotoys.com/"
+  },
+  {
+    "id": 197,
+    "name": "Kibo",
+    "description": "Robot kit untuk anak K-2 belajar programming tanpa layar",
+    "category": "PAUD ke atas",
+    "url": "https://kinderlabrobotics.com/"
+  },
+  {
+    "id": 198,
+    "name": "Ozobot",
+    "description": "Robot mini programmable dengan color codes dan block programming",
+    "category": "SD ke atas",
+    "url": "https://ozobot.com/"
+  },
+  {
+    "id": 199,
+    "name": "Dash & Dot",
+    "description": "Robot pembelajaran dengan aplikasi block-based programming",
+    "category": "SD ke atas",
+    "url": "https://www.makewonder.com/"
+  },
+  {
+    "id": 200,
+    "name": "mBot",
+    "description": "Educational robot untuk belajar programming, electronics, dan robotics",
+    "category": "SD ke atas",
+    "url": "https://www.makeblock.com/"
+  },
+  {
+    "id": 201,
+    "name": "Vooks",
+    "description": "Platform streaming animasi read-aloud books untuk anak tanpa iklan",
+    "category": "PAUD ke atas",
+    "url": "https://www.vooks.com/"
+  },
+  {
+    "id": 202,
+    "name": "Microsoft Math Solver",
+    "description": "AI-powered math solver dengan step-by-step solutions",
+    "category": "SMP ke atas",
+    "url": "https://mathsolver.microsoft.com/"
+  },
+  {
+    "id": 203,
+    "name": "Wolfram Alpha",
+    "description": "Computational engine untuk matematika, sains, dan berbagai topik",
+    "category": "SMA ke atas",
+    "url": "https://www.wolframalpha.com/"
+  },
+  {
+    "id": 204,
+    "name": "Symbolab",
+    "description": "Math solver dengan step-by-step solutions untuk aljabar dan kalkulus",
+    "category": "SMP ke atas",
+    "url": "https://www.symbolab.com/"
+  },
+  {
+    "id": 205,
+    "name": "Cymath",
+    "description": "Math problem solver dengan detailed explanations",
+    "category": "SMP ke atas",
+    "url": "https://www.cymath.com/"
+  },
+  {
+    "id": 206,
+    "name": "Khan Academy (Indonesian)",
+    "description": "Platform Khan Academy dengan konten dalam bahasa Indonesia",
+    "category": "SD ke atas",
+    "url": "https://id.khanacademy.org/"
+  },
+  {
+    "id": 207,
+    "name": "edX",
+    "description": "Platform MOOC dari Harvard dan MIT dengan kursus gratis",
+    "category": "SMA ke atas",
+    "url": "https://www.edx.org/"
+  },
+  {
+    "id": 208,
+    "name": "Coursera",
+    "description": "Platform kursus online dari universitas top dunia",
+    "category": "SMA ke atas",
+    "url": "https://www.coursera.org/"
+  },
+  {
+    "id": 209,
+    "name": "Udacity",
+    "description": "Platform learning tech skills dengan nanodegree programs",
+    "category": "SMA ke atas",
+    "url": "https://www.udacity.com/"
+  },
+  {
+    "id": 210,
+    "name": "Udemy",
+    "description": "Marketplace kursus online dengan berbagai topik",
+    "category": "SMA ke atas",
+    "url": "https://www.udemy.com/"
+  },
+  {
+    "id": 211,
+    "name": "Skillshare",
+    "description": "Platform pembelajaran creative skills dan entrepreneurship",
+    "category": "SMA ke atas",
+    "url": "https://www.skillshare.com/"
+  },
+  {
+    "id": 212,
+    "name": "MasterClass",
+    "description": "Platform pembelajaran dari para ahli dan selebriti dunia",
+    "category": "SMA ke atas",
+    "url": "https://www.masterclass.com/"
+  },
+  {
+    "id": 213,
+    "name": "LinkedIn Learning",
+    "description": "Platform professional development dengan sertifikat",
+    "category": "Profesional",
+    "url": "https://www.linkedin.com/learning/"
+  },
+  {
+    "id": 214,
+    "name": "Pluralsight",
+    "description": "Platform tech training untuk developer dan IT professionals",
+    "category": "Profesional",
+    "url": "https://www.pluralsight.com/"
+  },
+  {
+    "id": 215,
+    "name": "YouTube Kids",
+    "description": "Versi YouTube yang aman untuk anak dengan konten edukatif",
+    "category": "PAUD ke atas",
+    "url": "https://www.youtubekids.com/"
+  },
+  {
+    "id": 216,
+    "name": "PBS Kids",
+    "description": "Platform games dan videos edukatif dari PBS",
+    "category": "PAUD ke atas",
+    "url": "https://pbskids.org/"
+  },
+  {
+    "id": 217,
+    "name": "Sesame Street",
+    "description": "Konten edukatif resmi Sesame Street untuk anak",
+    "category": "PAUD",
+    "url": "https://www.sesamestreet.org/"
+  },
+  {
+    "id": 218,
+    "name": "BrainPOP",
+    "description": "Animated videos dan activities untuk K-12 subjects",
+    "category": "SD ke atas",
+    "url": "https://www.brainpop.com/"
+  },
+  {
+    "id": 219,
+    "name": "BrainPOP Jr.",
+    "description": "Versi BrainPOP untuk anak K-3",
+    "category": "PAUD ke atas",
+    "url": "https://jr.brainpop.com/"
+  },
+  {
+    "id": 220,
+    "name": "National Geographic Kids",
+    "description": "Konten edukatif NatGeo untuk anak dengan games dan videos",
+    "category": "SD ke atas",
+    "url": "https://kids.nationalgeographic.com/"
+  },
+  {
+    "id": 221,
+    "name": "Smithsonian Learning",
+    "description": "Resources edukatif dari Smithsonian Institution",
+    "category": "SD ke atas",
+    "url": "https://learninglab.si.edu/"
+  },
+  {
+    "id": 222,
+    "name": "NASA Kids Club",
+    "description": "Games dan activities dari NASA untuk anak",
+    "category": "SD ke atas",
+    "url": "https://www.nasa.gov/kidsclub/"
+  },
+  {
+    "id": 223,
+    "name": "NOVA Labs",
+    "description": "Interactive science experiences dari PBS NOVA",
+    "category": "SMP ke atas",
+    "url": "https://www.pbs.org/wgbh/nova/labs/"
+  },
+  {
+    "id": 224,
+    "name": "CrashCourse",
+    "description": "Educational videos dari Hank dan John Green tentang berbagai topik",
+    "category": "SMP ke atas",
+    "url": "https://thecrashcourse.com/"
+  },
+  {
+    "id": 225,
+    "name": "TED-Ed",
+    "description": "Educational videos pendek dengan animasi dari TED",
+    "category": "SD ke atas",
+    "url": "https://ed.ted.com/"
+  },
+  {
+    "id": 226,
+    "name": "Kurzgesagt",
+    "description": "Channel YouTube dengan animated explainers tentang sains dan filosofi",
+    "category": "SMP ke atas",
+    "url": "https://kurzgesagt.org/"
+  },
+  {
+    "id": 227,
+    "name": "SciShow Kids",
+    "description": "Channel YouTube sains untuk anak dengan Jessi dan Squeaks",
+    "category": "PAUD ke atas",
+    "url": "https://www.youtube.com/c/scishowkids"
+  },
+  {
+    "id": 228,
+    "name": "MinutePhysics",
+    "description": "Penjelasan fisika dalam video singkat dan mudah dipahami",
+    "category": "SMP ke atas",
+    "url": "https://www.youtube.com/user/minutephysics"
+  },
+  {
+    "id": 229,
+    "name": "Veritasium",
+    "description": "Channel YouTube sains dengan eksperimen dan penjelasan yang menarik",
+    "category": "SMP ke atas",
+    "url": "https://www.youtube.com/c/veritasium"
+  },
+  {
+    "id": 230,
+    "name": "Vsauce",
+    "description": "Channel YouTube dengan pertanyaan filosofis dan sains yang mindblowing",
+    "category": "SMP ke atas",
+    "url": "https://www.youtube.com/user/Vsauce"
+  },
+  {
+    "id": 231,
+    "name": "Numberphile",
+    "description": "Channel YouTube tentang matematika yang menarik",
+    "category": "SMP ke atas",
+    "url": "https://www.youtube.com/user/numberphile"
+  },
+  {
+    "id": 232,
+    "name": "Computerphile",
+    "description": "Channel YouTube tentang computer science dan programming",
+    "category": "SMP ke atas",
+    "url": "https://www.youtube.com/user/Computerphile"
+  },
+  {
+    "id": 233,
+    "name": "Adobe Creative Suite",
+    "description": "Suite aplikasi creative professional (Photoshop, Illustrator, etc)",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/creativecloud.html"
+  },
+  {
+    "id": 234,
+    "name": "GIMP",
+    "description": "Free dan open-source image editor alternatif Photoshop",
+    "category": "SMP ke atas",
+    "url": "https://www.gimp.org/"
+  },
+  {
+    "id": 235,
+    "name": "Blender",
+    "description": "Free 3D creation suite untuk modeling, animation, dan rendering",
+    "category": "SMP ke atas",
+    "url": "https://www.blender.org/"
+  },
+  {
+    "id": 236,
+    "name": "SketchUp",
+    "description": "3D modeling software yang user-friendly untuk beginners",
+    "category": "SD ke atas",
+    "url": "https://www.sketchup.com/"
+  },
+  {
+    "id": 237,
+    "name": "Figma",
+    "description": "Collaborative interface design tool berbasis web",
+    "category": "SMP ke atas",
+    "url": "https://www.figma.com/"
+  },
+  {
+    "id": 238,
+    "name": "Sketch",
+    "description": "Vector graphics editor untuk UI/UX design di Mac",
+    "category": "SMA ke atas",
+    "url": "https://www.sketch.com/"
+  },
+  {
+    "id": 239,
+    "name": "Krita",
+    "description": "Free digital painting software untuk artists",
+    "category": "SD ke atas",
+    "url": "https://krita.org/"
+  },
+  {
+    "id": 240,
+    "name": "Paint Tool SAI",
+    "description": "Lightweight digital painting software populer di kalangan artists",
+    "category": "SD ke atas",
+    "url": "https://www.systemax.jp/en/sai/"
+  },
+  {
+    "id": 241,
+    "name": "Clip Studio Paint",
+    "description": "Professional illustration dan animation software",
+    "category": "SMP ke atas",
+    "url": "https://www.clipstudio.net/"
+  },
+  {
+    "id": 242,
+    "name": "Flipaclip",
+    "description": "Aplikasi mobile untuk membuat animasi 2D",
+    "category": "SD ke atas",
+    "url": "https://flipaclip.com/"
+  },
+  {
+    "id": 243,
+    "name": "Stop Motion Studio",
+    "description": "Aplikasi untuk membuat stop motion animation",
+    "category": "SD ke atas",
+    "url": "https://www.cateater.com/"
+  },
+  {
+    "id": 244,
+    "name": "GarageBand",
+    "description": "Digital audio workstation gratis dari Apple",
+    "category": "SD ke atas",
+    "url": "https://www.apple.com/mac/garageband/"
+  },
+  {
+    "id": 245,
+    "name": "Audacity",
+    "description": "Free, open-source audio editing software",
+    "category": "SMP ke atas",
+    "url": "https://www.audacityteam.org/"
+  },
+  {
+    "id": 246,
+    "name": "FL Studio",
+    "description": "Digital audio workstation untuk music production",
+    "category": "SMP ke atas",
+    "url": "https://www.image-line.com/"
+  },
+  {
+    "id": 247,
+    "name": "MuseScore",
+    "description": "Free music notation software",
+    "category": "SMP ke atas",
+    "url": "https://musescore.org/"
+  },
+  {
+    "id": 248,
+    "name": "BandLab Education",
+    "description": "Platform musik untuk sekolah dengan tools creation",
+    "category": "SD ke atas",
+    "url": "https://www.bandlab.com/education"
+  },
+  {
+    "id": 249,
+    "name": "Soundtrap",
+    "description": "Online music studio dari Spotify untuk collaboration",
+    "category": "SD ke atas",
+    "url": "https://www.soundtrap.com/"
+  },
+  {
+    "id": 250,
+    "name": "Loopy HD",
+    "description": "Aplikasi iOS untuk live music looping dan performance",
+    "category": "SD ke atas",
+    "url": "https://loopyapp.com/"
+  },
+  {
+    "id": 251,
+    "name": "Music Maker JAM",
+    "description": "Aplikasi mobile untuk membuat musik dengan loops",
+    "category": "SD ke atas",
+    "url": "https://www.magix.com/us/music/music-maker-jam/"
+  },
+  {
+    "id": 252,
+    "name": "Chrome Music Lab Song Maker",
+    "description": "Tool online untuk membuat lagu dengan grid-based interface",
+    "category": "PAUD ke atas",
+    "url": "https://musiclab.chromeexperiments.com/Song-Maker/"
+  },
+  {
+    "id": 253,
+    "name": "Splice",
+    "description": "Platform untuk samples, loops, dan collaboration musik",
+    "category": "SMA ke atas",
+    "url": "https://splice.com/"
+  },
+  {
+    "id": 254,
+    "name": "LMMS",
+    "description": "Free digital audio workstation untuk Linux, macOS, dan Windows",
+    "category": "SMP ke atas",
+    "url": "https://lmms.io/"
+  },
+  {
+    "id": 255,
+    "name": "Sonic Pi",
+    "description": "Live coding synth untuk membuat musik dengan kode",
+    "category": "SMP ke atas",
+    "url": "https://sonic-pi.net/"
+  },
+  {
+    "id": 256,
+    "name": "EarMaster",
+    "description": "Software ear training untuk musisi",
+    "category": "SD ke atas",
+    "url": "https://www.earmaster.com/"
+  },
+  {
+    "id": 257,
+    "name": "Music Theory Helper",
+    "description": "Aplikasi untuk belajar music theory",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 258,
+    "name": "Tenuto",
+    "description": "Aplikasi iOS untuk music theory dan sight-reading practice",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 259,
+    "name": "Perfect Piano",
+    "description": "Aplikasi piano virtual untuk Android dengan belajar lagu",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 260,
+    "name": "Real Piano Teacher",
+    "description": "Aplikasi pembelajaran piano dengan feedback real-time",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 261,
+    "name": "Playground Sessions",
+    "description": "Interactive piano learning dengan real piano connection",
+    "category": "SD ke atas",
+    "url": "https://www.playgroundsessions.com/"
+  },
+  {
+    "id": 262,
+    "name": "Piano Marvel",
+    "description": "Online piano learning dengan library lagu yang besar",
+    "category": "SD ke atas",
+    "url": "https://www.pianomarvel.com/"
+  },
+  {
+    "id": 263,
+    "name": "Skoove",
+    "description": "Piano learning app dengan AI feedback",
+    "category": "SD ke atas",
+    "url": "https://www.skoove.com/"
+  },
+  {
+    "id": 264,
+    "name": "Hoffman Academy",
+    "description": "Online piano lessons gratis untuk anak dengan video dan games",
+    "category": "PAUD ke atas",
+    "url": "https://www.hoffmanacademy.com/"
+  },
+  {
+    "id": 265,
+    "name": "JustinGuitar",
+    "description": "Free guitar lessons online yang comprehensive",
+    "category": "SD ke atas",
+    "url": "https://www.justinguitar.com/"
+  },
+  {
+    "id": 266,
+    "name": "Rocksmith",
+    "description": "Video game yang mengajarkan gitar dengan real guitar",
+    "category": "SMP ke atas",
+    "url": "https://www.ubisoft.com/en-us/game/rocksmith/"
+  },
+  {
+    "id": 267,
+    "name": "Fender Play",
+    "description": "Aplikasi pembelajaran gitar dari Fender",
+    "category": "SD ke atas",
+    "url": "https://www.fender.com/play"
+  },
+  {
+    "id": 268,
+    "name": "Guitar Tricks",
+    "description": "Online guitar lessons dengan berbagai style musik",
+    "category": "SD ke atas",
+    "url": "https://www.guitartricks.com/"
+  },
+  {
+    "id": 269,
+    "name": "Marvin Gaye",
+    "description": "Music theory training app untuk advanced musicians",
+    "category": "SMA ke atas",
+    "url": "https://www.artanddirector.com/marvin/"
+  },
+  {
+    "id": 270,
+    "name": "Drum School",
+    "description": "Aplikasi pembelajaran drum dengan lessons dan practice",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 271,
+    "name": "Scratch Jr",
+    "description": "Visual programming untuk anak usia 5-7 tahun",
+    "category": "PAUD ke atas",
+    "url": "https://www.scratchjr.org/"
+  },
+  {
+    "id": 272,
+    "name": "Alice (Carnegie Mellon)",
+    "description": "3D programming environment untuk belajar coding concepts",
+    "category": "SMP ke atas",
+    "url": "https://www.alice.org/"
+  },
+  {
+    "id": 273,
+    "name": "Greenfoot",
+    "description": "Java development environment untuk education",
+    "category": "SMA ke atas",
+    "url": "https://www.greenfoot.org/"
+  },
+  {
+    "id": 274,
+    "name": "BlueJ",
+    "description": "Integrated development environment khusus untuk teaching Java",
+    "category": "SMA ke atas",
+    "url": "https://www.bluej.org/"
+  },
+  {
+    "id": 275,
+    "name": "Processing",
+    "description": "Programming language dan IDE untuk visual arts dan creative coding",
+    "category": "SMP ke atas",
+    "url": "https://processing.org/"
+  },
+  {
+    "id": 276,
+    "name": "p5.js",
+    "description": "JavaScript library untuk creative coding berbasis browser",
+    "category": "SMP ke atas",
+    "url": "https://p5js.org/"
+  },
+  {
+    "id": 277,
+    "name": "OpenProcessing",
+    "description": "Platform sharing creative coding sketches",
+    "category": "SMP ke atas",
+    "url": "https://www.openprocessing.org/"
+  },
+  {
+    "id": 278,
+    "name": "Shadertoy",
+    "description": "Platform untuk belajar dan sharing fragment shaders",
+    "category": "SMA ke atas",
+    "url": "https://www.shadertoy.com/"
+  },
+  {
+    "id": 279,
+    "name": "CodePen",
+    "description": "Online code editor untuk front-end development",
+    "category": "SMP ke atas",
+    "url": "https://codepen.io/"
+  },
+  {
+    "id": 280,
+    "name": "JSFiddle",
+    "description": "Online IDE untuk web development (HTML, CSS, JS)",
+    "category": "SMP ke atas",
+    "url": "https://jsfiddle.net/"
+  },
+  {
+    "id": 281,
+    "name": "Glitch",
+    "description": "Platform collaborative coding untuk web apps",
+    "category": "SMP ke atas",
+    "url": "https://glitch.com/"
+  },
+  {
+    "id": 282,
+    "name": "Observable",
+    "description": "Platform untuk data visualization dan analysis dengan JavaScript",
+    "category": "SMA ke atas",
+    "url": "https://observablehq.com/"
+  },
+  {
+    "id": 283,
+    "name": "Jupyter Notebook",
+    "description": "Interactive computing environment untuk data science",
+    "category": "SMA ke atas",
+    "url": "https://jupyter.org/"
+  },
+  {
+    "id": 284,
+    "name": "Google Colab",
+    "description": "Free Jupyter notebook environment dengan GPU support",
+    "category": "SMA ke atas",
+    "url": "https://colab.research.google.com/"
+  },
+  {
+    "id": 285,
+    "name": "Kaggle Learn",
+    "description": "Free micro-courses untuk data science dan machine learning",
+    "category": "SMA ke atas",
+    "url": "https://www.kaggle.com/learn"
+  },
+  {
+    "id": 286,
+    "name": "Elements of AI",
+    "description": "Free course series tentang AI dari University of Helsinki",
+    "category": "SMA ke atas",
+    "url": "https://www.elementsofai.com/"
+  },
+  {
+    "id": 287,
+    "name": "MIT Introduction to Computer Science",
+    "description": "MIT 6.00.1x Introduction to Computer Science using Python",
+    "category": "SMA ke atas",
+    "url": "https://www.edx.org/course/introduction-to-computer-science-and-programming-7"
+  },
+  {
+    "id": 288,
+    "name": "CS50",
+    "description": "Harvard's introduction to computer science course",
+    "category": "SMA ke atas",
+    "url": "https://cs50.harvard.edu/"
+  },
+  {
+    "id": 289,
+    "name": "CS50 for Lawyers",
+    "description": "Computer science course khusus untuk legal professionals",
+    "category": "Profesional",
+    "url": "https://cs50.harvard.edu/law/"
+  },
+  {
+    "id": 290,
+    "name": "Automate the Boring Stuff with Python",
+    "description": "Free online book untuk belajar Python automation",
+    "category": "SMA ke atas",
+    "url": "https://automatetheboringstuff.com/"
+  },
+  {
+    "id": 291,
+    "name": "Python Tutor",
+    "description": "Visualizer untuk memahami bagaimana kode Python berjalan",
+    "category": "SMP ke atas",
+    "url": "http://pythontutor.com/"
+  },
+  {
+    "id": 292,
+    "name": "Real Python",
+    "description": "Platform learning Python dengan tutorials dan courses",
+    "category": "SMA ke atas",
+    "url": "https://realpython.com/"
+  },
+  {
+    "id": 293,
+    "name": "Python.org Tutorial",
+    "description": "Official Python tutorial dari Python Software Foundation",
+    "category": "SMA ke atas",
+    "url": "https://docs.python.org/3/tutorial/"
+  },
+  {
+    "id": 294,
+    "name": "Learn Python the Hard Way",
+    "description": "Hands-on approach untuk belajar Python programming",
+    "category": "SMA ke atas",
+    "url": "https://learnpythonthehardway.org/"
+  },
+  {
+    "id": 295,
+    "name": "JavaScript.info",
+    "description": "Comprehensive tutorial JavaScript dari basic hingga advanced",
+    "category": "SMP ke atas",
+    "url": "https://javascript.info/"
+  },
+  {
+    "id": 296,
+    "name": "MDN Web Docs",
+    "description": "Documentation resmi web development dari Mozilla",
+    "category": "SMP ke atas",
+    "url": "https://developer.mozilla.org/"
+  },
+  {
+    "id": 297,
+    "name": "W3Schools",
+    "description": "Web development tutorials dan reference",
+    "category": "SMP ke atas",
+    "url": "https://www.w3schools.com/"
+  },
+  {
+    "id": 298,
+    "name": "CSS-Tricks",
+    "description": "Website dengan tips, tricks, dan tutorials CSS",
+    "category": "SMP ke atas",
+    "url": "https://css-tricks.com/"
+  },
+  {
+    "id": 299,
+    "name": "Can I Use",
+    "description": "Browser compatibility tables untuk HTML5, CSS3, dll",
+    "category": "SMA ke atas",
+    "url": "https://caniuse.com/"
+  },
+  {
+    "id": 300,
+    "name": "Flexbox Froggy",
+    "description": "Game untuk belajar CSS Flexbox",
+    "category": "SMP ke atas",
+    "url": "https://flexboxfroggy.com/"
+  },
+  {
+    "id": 301,
+    "name": "CSS Grid Garden",
+    "description": "Game untuk belajar CSS Grid",
+    "category": "SMP ke atas",
+    "url": "https://cssgridgarden.com/"
+  },
+  {
+    "id": 302,
+    "name": "CSS Diner",
+    "description": "Game untuk belajar CSS selectors",
+    "category": "SMP ke atas",
+    "url": "https://flukeout.github.io/"
+  },
+  {
+    "id": 303,
+    "name": "CSS Battle",
+    "description": "Platform untuk CSS coding challenges",
+    "category": "SMA ke atas",
+    "url": "https://cssbattle.dev/"
+  },
+  {
+    "id": 304,
+    "name": "Frontend Mentor",
+    "description": "Real-world frontend challenges untuk skill building",
+    "category": "SMA ke atas",
+    "url": "https://www.frontendmentor.io/"
+  },
+  {
+    "id": 305,
+    "name": "Dev Challenges",
+    "description": "Frontend dan fullstack challenges untuk developers",
+    "category": "SMA ke atas",
+    "url": "https://devchallenges.io/"
+  },
+  {
+    "id": 306,
+    "name": "JavaScript30",
+    "description": "30 hari vanilla JavaScript challenges dari Wes Bos",
+    "category": "SMA ke atas",
+    "url": "https://javascript30.com/"
+  },
+  {
+    "id": 307,
+    "name": "100 Days of Code",
+    "description": "Challenge untuk coding setiap hari selama 100 hari",
+    "category": "SMP ke atas",
+    "url": "https://www.100daysofcode.com/"
+  },
+  {
+    "id": 308,
+    "name": "Advent of Code",
+    "description": "Annual programming puzzles dari December 1-25",
+    "category": "SMA ke atas",
+    "url": "https://adventofcode.com/"
+  },
+  {
+    "id": 309,
+    "name": "Coderbyte",
+    "description": "Platform dengan coding challenges dan interview prep",
+    "category": "SMA ke atas",
+    "url": "https://coderbyte.com/"
+  },
+  {
+    "id": 310,
+    "name": "CodeWars",
+    "description": "Platform martial arts-themed coding challenges",
+    "category": "SMA ke atas",
+    "url": "https://www.codewars.com/"
+  },
+  {
+    "id": 311,
+    "name": "Edabit",
+    "description": "Platform interactive coding challenges untuk semua level",
+    "category": "SMP ke atas",
+    "url": "https://edabit.com/"
+  },
+  {
+    "id": 312,
+    "name": "AtCoder",
+    "description": "Competitive programming platform dari Jepang",
+    "category": "SMA ke atas",
+    "url": "https://atcoder.jp/"
+  },
+  {
+    "id": 313,
+    "name": "Topcoder",
+    "description": "Platform competitive programming dengan competitions",
+    "category": "SMA ke atas",
+    "url": "https://www.topcoder.com/"
+  },
+  {
+    "id": 314,
+    "name": "SPOJ",
+    "description": "Sphere Online Judge dengan ribuan programming problems",
+    "category": "SMA ke atas",
+    "url": "https://www.spoj.com/"
+  },
+  {
+    "id": 315,
+    "name": "UVa Online Judge",
+    "description": "Online judge dengan competitive programming problems",
+    "category": "SMA ke atas",
+    "url": "https://onlinejudge.org/"
+  },
+  {
+    "id": 316,
+    "name": "Codeforces Gym",
+    "description": "Virtual contests dan problem archive di Codeforces",
+    "category": "SMA ke atas",
+    "url": "https://codeforces.com/gyms"
+  },
+  {
+    "id": 317,
+    "name": "Competitive Programming Algorithms",
+    "description": "Collection algoritma untuk competitive programming",
+    "category": "SMA ke atas",
+    "url": "https://cp-algorithms.com/"
+  },
+  {
+    "id": 318,
+    "name": "USACO Guide",
+    "description": "Comprehensive guide untuk competitive programming",
+    "category": "SMA ke atas",
+    "url": "https://usaco.guide/"
+  },
+  {
+    "id": 319,
+    "name": "Competitive Programmer's Handbook",
+    "description": "Free book tentang competitive programming",
+    "category": "SMA ke atas",
+    "url": "https://cses.fi/book/"
+  },
+  {
+    "id": 320,
+    "name": "CSES Problem Set",
+    "description": "Collection competitive programming problems untuk practice",
+    "category": "SMA ke atas",
+    "url": "https://cses.fi/"
+  },
+  {
+    "id": 321,
+    "name": "Manim",
+    "description": "Python library untuk mathematical animation seperti 3Blue1Brown",
+    "category": "SMA ke atas",
+    "url": "https://www.manim.community/"
+  },
+  {
+    "id": 322,
+    "name": "Geometry Dash",
+    "description": "Rhythm-based platformer game yang mengajarkan timing dan perseverance",
+    "category": "SD ke atas",
+    "url": "https://store.steampowered.com/app/322170/Geometry_Dash/"
+  },
+  {
+    "id": 323,
+    "name": "Portal Series",
+    "description": "Puzzle games yang mengajarkan physics dan spatial reasoning",
+    "category": "SMP ke atas",
+    "url": "https://store.steampowered.com/sub/7932/"
+  },
+  {
+    "id": 324,
+    "name": "Human Resource Machine",
+    "description": "Puzzle game yang mengajarkan assembly programming concepts",
+    "category": "SMP ke atas",
+    "url": "https://tomorrowcorporation.com/humanresourcemachine"
+  },
+  {
+    "id": 325,
+    "name": "7 Billion Humans",
+    "description": "Sequel Human Resource Machine dengan parallel programming",
+    "category": "SMP ke atas",
+    "url": "https://tomorrowcorporation.com/7billionhumans"
+  },
+  {
+    "id": 326,
+    "name": "SpaceChem",
+    "description": "Puzzle game tentang chemistry dan industrial engineering",
+    "category": "SMP ke atas",
+    "url": "https://www.spacechemthegame.com/"
+  },
+  {
+    "id": 327,
+    "name": "Opus Magnum",
+    "description": "Puzzle game alchemy dengan elegant engineering solutions",
+    "category": "SMP ke atas",
+    "url": "https://www.zachtronics.com/opus-magnum/"
+  },
+  {
+    "id": 328,
+    "name": "TIS-100",
+    "description": "Assembly programming puzzle game untuk advanced learners",
+    "category": "SMA ke atas",
+    "url": "https://www.zachtronics.com/tis-100/"
+  },
+  {
+    "id": 329,
+    "name": "SHENZHEN I/O",
+    "description": "Electronics and programming puzzle game",
+    "category": "SMA ke atas",
+    "url": "https://www.zachtronics.com/shenzhen-io/"
+  },
+  {
+    "id": 330,
+    "name": "Kerbal Space Program",
+    "description": "Space flight simulation game yang mengajarkan physics dan engineering",
+    "category": "SMP ke atas",
+    "url": "https://www.kerbalspaceprogram.com/"
+  },
+  {
+    "id": 331,
+    "name": "Cities: Skylines",
+    "description": "City simulation yang mengajarkan urban planning dan systems thinking",
+    "category": "SMP ke atas",
+    "url": "https://www.citiesskylines.com/"
+  },
+  {
+    "id": 332,
+    "name": "Democracy 3",
+    "description": "Political simulation game yang mengajarkan policy making",
+    "category": "SMA ke atas",
+    "url": "https://www.positech.co.uk/democracy3/"
+  },
+  {
+    "id": 333,
+    "name": "DragonBox",
+    "description": "Series game matematika untuk belajar algebra concepts",
+    "category": "SD ke atas",
+    "url": "https://dragonbox.com/"
+  },
+  {
+    "id": 334,
+    "name": "Monument Valley",
+    "description": "Puzzle game tentang impossible geometry dan optical illusions",
+    "category": "PAUD ke atas",
+    "url": "https://monumentvalleygame.com/"
+  },
+  {
+    "id": 335,
+    "name": "The Witness",
+    "description": "Puzzle game yang mengajarkan pattern recognition dan logic",
+    "category": "SMP ke atas",
+    "url": "http://the-witness.net/"
+  },
+  {
+    "id": 336,
+    "name": "Baba Is You",
+    "description": "Puzzle game tentang manipulating rules dan logic",
+    "category": "SD ke atas",
+    "url": "https://hempuli.com/baba/"
+  },
+  {
+    "id": 337,
+    "name": "The Talos Principle",
+    "description": "Philosophical puzzle game tentang AI dan consciousness",
+    "category": "SMA ke atas",
+    "url": "http://www.croteam.com/talosprinciple/"
+  },
+  {
+    "id": 338,
+    "name": "Factorio",
+    "description": "Factory building game yang mengajarkan automation dan optimization",
+    "category": "SMP ke atas",
+    "url": "https://factorio.com/"
+  },
+  {
+    "id": 339,
+    "name": "Satisfactory",
+    "description": "3D factory building game dengan environmental considerations",
+    "category": "SMP ke atas",
+    "url": "https://www.satisfactorygame.com/"
+  },
+  {
+    "id": 340,
+    "name": "Zachtronics Games Collection",
+    "description": "Collection puzzle games yang mengajarkan engineering thinking",
+    "category": "SMA ke atas",
+    "url": "https://www.zachtronics.com/"
+  },
+  {
+    "id": 341,
+    "name": "CodeMonkey Jr",
+    "description": "Pre-reader version CodeMonkey untuk anak usia 4-6",
+    "category": "PAUD",
+    "url": "https://www.codemonkey.com/codemonkey-jr/"
+  },
+  {
+    "id": 342,
+    "name": "Kodable",
+    "description": "Programming curriculum untuk K-5 dengan game-based learning",
+    "category": "PAUD ke atas",
+    "url": "https://www.kodable.com/"
+  },
+  {
+    "id": 343,
+    "name": "Algorithm City",
+    "description": "Board game untuk mengajarkan programming concepts",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 344,
+    "name": "Code & Go",
+    "description": "Screen-free coding games dan activities",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 345,
+    "name": "Botley the Coding Robot",
+    "description": "Screen-free coding robot untuk anak usia 5+",
+    "category": "PAUD ke atas",
+    "url": ""
+  },
+  {
+    "id": 346,
+    "name": "Code-a-pillar",
+    "description": "Fisher-Price coding toy untuk preschoolers",
+    "category": "PAUD",
+    "url": ""
+  },
+  {
+    "id": 347,
+    "name": "Think & Learn Code-a-pillar Twist",
+    "description": "Advanced version Code-a-pillar dengan lebih banyak commands",
+    "category": "PAUD",
+    "url": ""
+  },
+  {
+    "id": 348,
+    "name": "KIBO Robot",
+    "description": "Programming robot untuk K-2 tanpa screens",
+    "category": "PAUD ke atas",
+    "url": "https://kinderlabrobotics.com/"
+  },
+  {
+    "id": 349,
+    "name": "Root Robot",
+    "description": "Educational robot dari iRobot untuk coding dan art",
+    "category": "SD ke atas",
+    "url": "https://root.irobot.com/"
+  },
+  {
+    "id": 350,
+    "name": "Cozmo Robot",
+    "description": "AI robot dengan personality untuk coding dan play",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 351,
+    "name": "Vector Robot",
+    "description": "AI companion robot dengan advanced capabilities",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 352,
+    "name": "LEGO Mindstorms",
+    "description": "Advanced robotics platform untuk programming dan engineering",
+    "category": "SMP ke atas",
+    "url": "https://www.lego.com/en-us/mindstorms/"
+  },
+  {
+    "id": 353,
+    "name": "VEX Robotics",
+    "description": "Educational robotics platform untuk competitions",
+    "category": "SMP ke atas",
+    "url": "https://www.vexrobotics.com/"
+  },
+  {
+    "id": 354,
+    "name": "FIRST Robotics",
+    "description": "Global robotics competition program untuk semua usia",
+    "category": "SD ke atas",
+    "url": "https://www.firstinspires.org/"
+  },
+  {
+    "id": 355,
+    "name": "RoboCup Junior",
+    "description": "International robotics competition untuk students",
+    "category": "SD ke atas",
+    "url": "https://junior.robocup.org/"
+  },
+  {
+    "id": 356,
+    "name": "Micro:bit",
+    "description": "Microcomputer untuk coding, electronics, dan IoT projects",
+    "category": "SD ke atas",
+    "url": "https://microbit.org/"
+  },
+  {
+    "id": 357,
+    "name": "MakeCode for micro:bit",
+    "description": "Visual programming environment untuk micro:bit",
+    "category": "SD ke atas",
+    "url": "https://makecode.microbit.org/"
+  },
+  {
+    "id": 358,
+    "name": "Circuit Playground",
+    "description": "Adafruit's educational electronics platform",
+    "category": "SD ke atas",
+    "url": "https://circuitplayground.org/"
+  },
+  {
+    "id": 359,
+    "name": "MakeCode Arcade",
+    "description": "Platform untuk membuat retro arcade games",
+    "category": "SD ke atas",
+    "url": "https://arcade.makecode.com/"
+  },
+  {
+    "id": 360,
+    "name": "MakeCode Minecraft",
+    "description": "Programming dalam Minecraft Education Edition",
+    "category": "SD ke atas",
+    "url": "https://minecraft.makecode.com/"
+  },
+  {
+    "id": 361,
+    "name": "Minecraft Education Edition",
+    "description": "Educational version Minecraft untuk classroom learning",
+    "category": "SD ke atas",
+    "url": "https://education.minecraft.net/"
+  },
+  {
+    "id": 362,
+    "name": "Minecraft Hour of Code",
+    "description": "Programming tutorials menggunakan Minecraft",
+    "category": "SD ke atas",
+    "url": "https://code.org/minecraft"
+  },
+  {
+    "id": 363,
+    "name": "Code.org Hour of Code",
+    "description": "Annual event dengan coding activities untuk semua usia",
+    "category": "PAUD ke atas",
+    "url": "https://hourofcode.com/"
+  },
+  {
+    "id": 364,
+    "name": "Code.org CS Fundamentals",
+    "description": "Computer science curriculum untuk elementary students",
+    "category": "SD",
+    "url": "https://code.org/educate/curriculum/elementary-school"
+  },
+  {
+    "id": 365,
+    "name": "Code.org CS Discoveries",
+    "description": "Intro computer science course untuk middle school",
+    "category": "SMP",
+    "url": "https://code.org/educate/csd"
+  },
+  {
+    "id": 366,
+    "name": "Code.org CS Principles",
+    "description": "AP Computer Science Principles curriculum",
+    "category": "SMA",
+    "url": "https://code.org/educate/csp"
+  },
+  {
+    "id": 367,
+    "name": "Girls Who Code",
+    "description": "Organization untuk closing gender gap dalam technology",
+    "category": "SMP ke atas",
+    "url": "https://girlswhocode.com/"
+  },
+  {
+    "id": 368,
+    "name": "Black Girls CODE",
+    "description": "Organization untuk increasing number of women of color in tech",
+    "category": "SD ke atas",
+    "url": "https://www.blackgirlscode.com/"
+  },
+  {
+    "id": 369,
+    "name": "DiversityInTech",
+    "description": "Resources untuk promoting diversity dalam technology",
+    "category": "SMA ke atas",
+    "url": ""
+  },
+  {
+    "id": 370,
+    "name": "Women Who Code",
+    "description": "Global nonprofit mendukung women dalam technology careers",
+    "category": "Profesional",
+    "url": "https://www.womenwhocode.com/"
+  },
+  {
+    "id": 371,
+    "name": "AppInventor",
+    "description": "Platform membuat Android apps dengan visual programming",
+    "category": "SMP ke atas",
+    "url": "https://appinventor.mit.edu/"
+  },
+  {
+    "id": 372,
+    "name": "Thunkable",
+    "description": "Platform no-code untuk membuat mobile apps",
+    "category": "SMP ke atas",
+    "url": "https://thunkable.com/"
+  },
+  {
+    "id": 373,
+    "name": "BuildFire",
+    "description": "App builder platform untuk creating mobile apps",
+    "category": "SMA ke atas",
+    "url": "https://buildfire.com/"
+  },
+  {
+    "id": 374,
+    "name": "Bubble",
+    "description": "No-code platform untuk building web applications",
+    "category": "SMA ke atas",
+    "url": "https://bubble.io/"
+  },
+  {
+    "id": 375,
+    "name": "Webflow",
+    "description": "Visual web design platform dengan clean code output",
+    "category": "SMA ke atas",
+    "url": "https://webflow.com/"
+  },
+  {
+    "id": 376,
+    "name": "Zapier",
+    "description": "Automation platform untuk connecting apps dan workflows",
+    "category": "SMA ke atas",
+    "url": "https://zapier.com/"
+  },
+  {
+    "id": 377,
+    "name": "IFTTT",
+    "description": "If This Then That - simple automation platform",
+    "category": "SMP ke atas",
+    "url": "https://ifttt.com/"
+  },
+  {
+    "id": 378,
+    "name": "Airtable",
+    "description": "Spreadsheet-database hybrid untuk project organization",
+    "category": "SMA ke atas",
+    "url": "https://airtable.com/"
+  },
+  {
+    "id": 379,
+    "name": "Notion",
+    "description": "All-in-one workspace untuk notes, tasks, wikis, databases",
+    "category": "SMP ke atas",
+    "url": "https://notion.so/"
+  },
+  {
+    "id": 380,
+    "name": "Obsidian",
+    "description": "Knowledge management app dengan linked thinking",
+    "category": "SMA ke atas",
+    "url": "https://obsidian.md/"
+  },
+  {
+    "id": 381,
+    "name": "Roam Research",
+    "description": "Note-taking tool untuk networked thought",
+    "category": "SMA ke atas",
+    "url": "https://roamresearch.com/"
+  },
+  {
+    "id": 382,
+    "name": "Logseq",
+    "description": "Privacy-first knowledge base dengan block-based notes",
+    "category": "SMA ke atas",
+    "url": "https://logseq.com/"
+  },
+  {
+    "id": 383,
+    "name": "Anki",
+    "description": "Spaced repetition flashcard system untuk memorization",
+    "category": "SD ke atas",
+    "url": "https://apps.ankiweb.net/"
+  },
+  {
+    "id": 384,
+    "name": "Quizlet",
+    "description": "Study tools dengan flashcards, games, dan quizzes",
+    "category": "SD ke atas",
+    "url": "https://quizlet.com/"
+  },
+  {
+    "id": 385,
+    "name": "Brainscape",
+    "description": "Intelligent flashcards dengan confidence-based repetition",
+    "category": "SD ke atas",
+    "url": "https://www.brainscape.com/"
+  },
+  {
+    "id": 386,
+    "name": "StudyBlue",
+    "description": "Digital study tools dan flashcard platform",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 387,
+    "name": "Cram",
+    "description": "Free flashcard and study game website",
+    "category": "SD ke atas",
+    "url": "https://www.cram.com/"
+  },
+  {
+    "id": 388,
+    "name": "Flashcard Machine",
+    "description": "Create, study, dan share flashcards online",
+    "category": "SD ke atas",
+    "url": "https://www.flashcardmachine.com/"
+  },
+  {
+    "id": 389,
+    "name": "StudyStack",
+    "description": "Free online flashcards untuk semua subjects",
+    "category": "SD ke atas",
+    "url": "https://www.studystack.com/"
+  },
+  {
+    "id": 390,
+    "name": "Chegg Study",
+    "description": "Homework help dan textbook solutions platform",
+    "category": "SMA ke atas",
+    "url": "https://www.chegg.com/"
+  },
+  {
+    "id": 391,
+    "name": "Course Hero",
+    "description": "Study resources dan tutoring platform",
+    "category": "SMA ke atas",
+    "url": "https://www.coursehero.com/"
+  },
+  {
+    "id": 392,
+    "name": "StudyGuide",
+    "description": "Free study guides dan practice tests",
+    "category": "SMA ke atas",
+    "url": ""
+  },
+  {
+    "id": 393,
+    "name": "SparkNotes",
+    "description": "Literature study guides dan academic resources",
+    "category": "SMP ke atas",
+    "url": "https://www.sparknotes.com/"
+  },
+  {
+    "id": 394,
+    "name": "CliffsNotes",
+    "description": "Study guides untuk literature, test prep, dan academics",
+    "category": "SMP ke atas",
+    "url": "https://www.cliffsnotes.com/"
+  },
+  {
+    "id": 395,
+    "name": "Shmoop",
+    "description": "Study guides dengan modern and fun approach",
+    "category": "SMP ke atas",
+    "url": "https://www.shmoop.com/"
+  },
+  {
+    "id": 396,
+    "name": "eNotes",
+    "description": "Study guides, homework help, dan Q&A platform",
+    "category": "SMP ke atas",
+    "url": "https://www.enotes.com/"
+  },
+  {
+    "id": 397,
+    "name": "GradeSaver",
+    "description": "Free study guides dan essay editing services",
+    "category": "SMP ke atas",
+    "url": "https://www.gradesaver.com/"
+  },
+  {
+    "id": 398,
+    "name": "LitCharts",
+    "description": "Modern study guides untuk literature",
+    "category": "SMP ke atas",
+    "url": "https://www.litcharts.com/"
+  },
+  {
+    "id": 399,
+    "name": "Study.com",
+    "description": "Video lessons dan study guides untuk many subjects",
+    "category": "SMA ke atas",
+    "url": "https://study.com/"
+  },
+  {
+    "id": 400,
+    "name": "Varsity Tutors",
+    "description": "Online tutoring dan test prep platform",
+    "category": "SD ke atas",
+    "url": "https://www.varsitytutors.com/"
+  },
+  {
+    "id": 401,
+    "name": "Wyzant",
+    "description": "Private tutoring marketplace untuk semua subjects",
+    "category": "SD ke atas",
+    "url": "https://www.wyzant.com/"
+  },
+  {
+    "id": 402,
+    "name": "Tutor.com",
+    "description": "24/7 online tutoring untuk students",
+    "category": "SD ke atas",
+    "url": "https://www.tutor.com/"
+  },
+  {
+    "id": 403,
+    "name": "Revolution Prep",
+    "description": "Test prep dan academic tutoring services",
+    "category": "SMA ke atas",
+    "url": "https://www.revolutionprep.com/"
+  },
+  {
+    "id": 404,
+    "name": "Kaplan",
+    "description": "Test preparation dan higher education services",
+    "category": "SMA ke atas",
+    "url": "https://www.kaplan.com/"
+  },
+  {
+    "id": 405,
+    "name": "Princeton Review",
+    "description": "Test prep dan college admissions services",
+    "category": "SMA ke atas",
+    "url": "https://www.princetonreview.com/"
+  },
+  {
+    "id": 406,
+    "name": "Magoosh",
+    "description": "Affordable test prep untuk GRE, GMAT, SAT, dll",
+    "category": "SMA ke atas",
+    "url": "https://magoosh.com/"
+  },
+  {
+    "id": 407,
+    "name": "Prep Scholar",
+    "description": "Personalized SAT/ACT prep program",
+    "category": "SMA",
+    "url": "https://www.prepscholar.com/"
+  },
+  {
+    "id": 408,
+    "name": "Khan Academy SAT Prep",
+    "description": "Free SAT practice dalam partnership dengan College Board",
+    "category": "SMA",
+    "url": "https://www.khanacademy.org/sat"
+  },
+  {
+    "id": 409,
+    "name": "College Board",
+    "description": "Official SAT, AP, dan college readiness resources",
+    "category": "SMA",
+    "url": "https://www.collegeboard.org/"
+  },
+  {
+    "id": 410,
+    "name": "ACT Student",
+    "description": "Official ACT test preparation resources",
+    "category": "SMA",
+    "url": "https://student.act.org/"
+  },
+  {
+    "id": 411,
+    "name": "ETS GRE Prep",
+    "description": "Official GRE test preparation dari Educational Testing Service",
+    "category": "Kuliah",
+    "url": "https://www.ets.org/gre/"
+  },
+  {
+    "id": 412,
+    "name": "GMAC GMAT Prep",
+    "description": "Official GMAT preparation resources",
+    "category": "Kuliah",
+    "url": "https://www.mba.com/"
+  },
+  {
+    "id": 413,
+    "name": "LSAC LSAT Prep",
+    "description": "Official LSAT preparation dari Law School Admission Council",
+    "category": "Kuliah",
+    "url": "https://www.lsac.org/"
+  },
+  {
+    "id": 414,
+    "name": "MCAT Official Prep",
+    "description": "Medical College Admission Test preparation",
+    "category": "Kuliah",
+    "url": "https://www.aamc.org/students/applying/mcat"
+  },
+  {
+    "id": 415,
+    "name": "IELTS Preparation",
+    "description": "International English Language Testing System prep",
+    "category": "SMA ke atas",
+    "url": "https://takeielts.britishcouncil.org/"
+  },
+  {
+    "id": 416,
+    "name": "TOEFL Preparation",
+    "description": "Test of English as a Foreign Language prep",
+    "category": "SMA ke atas",
+    "url": "https://www.ets.org/toefl/"
+  },
+  {
+    "id": 417,
+    "name": "Cambridge English",
+    "description": "Cambridge English qualifications dan preparation",
+    "category": "SMP ke atas",
+    "url": "https://www.cambridgeenglish.org/"
+  },
+  {
+    "id": 418,
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant untuk grammar dan style",
+    "category": "SMP ke atas",
+    "url": "https://www.grammarly.com/"
+  },
+  {
+    "id": 419,
+    "name": "Hemingway Editor",
+    "description": "Writing app yang membuat writing bold dan clear",
+    "category": "SMP ke atas",
+    "url": "https://hemingwayapp.com/"
+  },
+  {
+    "id": 420,
+    "name": "ProWritingAid",
+    "description": "Grammar checker, style editor, dan writing mentor",
+    "category": "SMA ke atas",
+    "url": "https://prowritingaid.com/"
+  },
+  {
+    "id": 421,
+    "name": "Turnitin",
+    "description": "Plagiarism detection dan academic integrity platform",
+    "category": "SMA ke atas",
+    "url": "https://www.turnitin.com/"
+  },
+  {
+    "id": 422,
+    "name": "Copyscape",
+    "description": "Plagiarism checker untuk web content",
+    "category": "SMA ke atas",
+    "url": "https://www.copyscape.com/"
+  },
+  {
+    "id": 423,
+    "name": "Scrivener",
+    "description": "Professional writing software untuk long-form projects",
+    "category": "SMA ke atas",
+    "url": "https://www.literatureandlatte.com/scrivener/"
+  },
+  {
+    "id": 424,
+    "name": "Ulysses",
+    "description": "Writing app untuk Mac dan iOS dengan distraction-free environment",
+    "category": "SMA ke atas",
+    "url": "https://ulysses.app/"
+  },
+  {
+    "id": 425,
+    "name": "WriteRoom",
+    "description": "Distraction-free writing environment",
+    "category": "SMA ke atas",
+    "url": "https://www.hogbaysoftware.com/products/writeroom/"
+  },
+  {
+    "id": 426,
+    "name": "Cold Turkey Writer",
+    "description": "Distraction-free writing dengan focus modes",
+    "category": "SMA ke atas",
+    "url": "https://getcoldturkey.com/writer/"
+  },
+  {
+    "id": 427,
+    "name": "ZenPen",
+    "description": "Minimalist web-based writing tool",
+    "category": "SMP ke atas",
+    "url": "http://www.zenpen.io/"
+  },
+  {
+    "id": 428,
+    "name": "Draft",
+    "description": "Version control untuk writing dengan collaboration features",
+    "category": "SMA ke atas",
+    "url": "https://draftin.com/"
+  },
+  {
+    "id": 429,
+    "name": "Reedsy Editor",
+    "description": "Online book editor dengan formatting untuk publishing",
+    "category": "SMA ke atas",
+    "url": "https://reedsy.com/write-a-book"
+  },
+  {
+    "id": 430,
+    "name": "Novlr",
+    "description": "Cloud-based novel writing software",
+    "category": "SMA ke atas",
+    "url": "https://www.novlr.org/"
+  },
+  {
+    "id": 431,
+    "name": "yWriter",
+    "description": "Free novel-writing software untuk organizing chapters",
+    "category": "SMA ke atas",
+    "url": "http://www.spacejock.com/yWriter7.html"
+  },
+  {
+    "id": 432,
+    "name": "Manuskript",
+    "description": "Open-source writing software untuk authors",
+    "category": "SMA ke atas",
+    "url": "http://www.theologeek.ch/manuskript/"
+  },
+  {
+    "id": 433,
+    "name": "Storyteller",
+    "description": "Writing software dengan built-in story development tools",
+    "category": "SMA ke atas",
+    "url": ""
+  },
+  {
+    "id": 434,
+    "name": "Campfire Write",
+    "description": "Writing software dengan world-building dan character development",
+    "category": "SMA ke atas",
+    "url": "https://www.campfirewrite.com/"
+  },
+  {
+    "id": 435,
+    "name": "World Anvil",
+    "description": "World-building platform untuk writers dan game masters",
+    "category": "SMA ke atas",
+    "url": "https://www.worldanvil.com/"
+  },
+  {
+    "id": 436,
+    "name": "Kanka",
+    "description": "Campaign management tool untuk tabletop RPGs",
+    "category": "SMA ke atas",
+    "url": "https://kanka.io/"
+  },
+  {
+    "id": 437,
+    "name": "LegendKeeper",
+    "description": "World-building dan campaign management for RPGs",
+    "category": "SMA ke atas",
+    "url": "https://www.legendkeeper.com/"
+  },
+  {
+    "id": 438,
+    "name": "FoundryVTT",
+    "description": "Virtual tabletop untuk playing RPGs online",
+    "category": "SMA ke atas",
+    "url": "https://foundryvtt.com/"
+  },
+  {
+    "id": 439,
+    "name": "Roll20",
+    "description": "Virtual tabletop platform untuk RPGs",
+    "category": "SMA ke atas",
+    "url": "https://roll20.net/"
+  },
+  {
+    "id": 440,
+    "name": "Fantasy Grounds",
+    "description": "Virtual tabletop dan character manager",
+    "category": "SMA ke atas",
+    "url": "https://www.fantasygrounds.com/"
+  },
+  {
+    "id": 441,
+    "name": "D&D Beyond",
+    "description": "Official digital toolset untuk Dungeons & Dragons",
+    "category": "SMA ke atas",
+    "url": "https://www.dndbeyond.com/"
+  },
+  {
+    "id": 442,
+    "name": "Pathfinder Nexus",
+    "description": "Digital tools untuk Pathfinder RPG",
+    "category": "SMA ke atas",
+    "url": "https://pathfindernexus.com/"
+  },
+  {
+    "id": 443,
+    "name": "Hero Lab",
+    "description": "Character creation software untuk berbagai RPG systems",
+    "category": "SMA ke atas",
+    "url": "https://www.wolflair.com/"
+  },
+  {
+    "id": 444,
+    "name": "PCGen",
+    "description": "Free RPG character generator",
+    "category": "SMA ke atas",
+    "url": "http://pcgen.org/"
+  },
+  {
+    "id": 445,
+    "name": "RPG Character Sheet",
+    "description": "Digital character sheets untuk various RPG systems",
+    "category": "SMA ke atas",
+    "url": ""
+  },
+  {
+    "id": 446,
+    "name": "Notebook.ai",
+    "description": "Smart notebook untuk writers dengan AI suggestions",
+    "category": "SMA ke atas",
+    "url": "https://www.notebook.ai/"
+  },
+  {
+    "id": 447,
+    "name": "Character.ai",
+    "description": "AI character creation dan conversation platform",
+    "category": "SMA ke atas",
+    "url": "https://character.ai/"
+  },
+  {
+    "id": 448,
+    "name": "Artbreeder",
+    "description": "AI-powered tool untuk creating dan editing images",
+    "category": "SMP ke atas",
+    "url": "https://www.artbreeder.com/"
+  },
+  {
+    "id": 449,
+    "name": "RunwayML",
+    "description": "Machine learning tools untuk creative projects",
+    "category": "SMA ke atas",
+    "url": "https://runwayml.com/"
+  },
+  {
+    "id": 450,
+    "name": "Generated.photos",
+    "description": "AI-generated photos of people yang tidak exist",
+    "category": "SMA ke atas",
+    "url": "https://generated.photos/"
+  },
+  {
+    "id": 451,
+    "name": "This Person Does Not Exist",
+    "description": "AI-generated faces dengan StyleGAN",
+    "category": "SMP ke atas",
+    "url": "https://thispersondoesnotexist.com/"
+  },
+  {
+    "id": 452,
+    "name": "AI Dungeon",
+    "description": "AI-powered text adventure game dengan unlimited possibilities",
+    "category": "SMP ke atas",
+    "url": "https://play.aidungeon.io/"
+  },
+  {
+    "id": 453,
+    "name": "NovelAI",
+    "description": "AI-assisted authorship dan storytelling",
+    "category": "SMA ke atas",
+    "url": "https://novelai.net/"
+  },
+  {
+    "id": 454,
+    "name": "Sudowrite",
+    "description": "AI writing partner untuk creative writing",
+    "category": "SMA ke atas",
+    "url": "https://www.sudowrite.com/"
+  },
+  {
+    "id": 455,
+    "name": "Copy.ai",
+    "description": "AI copywriter untuk marketing dan business content",
+    "category": "SMA ke atas",
+    "url": "https://www.copy.ai/"
+  },
+  {
+    "id": 456,
+    "name": "Jasper AI",
+    "description": "AI content creation platform untuk marketing",
+    "category": "Profesional",
+    "url": "https://www.jasper.ai/"
+  },
+  {
+    "id": 457,
+    "name": "Writesonic",
+    "description": "AI content creation platform untuk marketing copy",
+    "category": "SMA ke atas",
+    "url": "https://writesonic.com/"
+  },
+  {
+    "id": 458,
+    "name": "Rytr",
+    "description": "AI writing assistant untuk berbagai content types",
+    "category": "SMA ke atas",
+    "url": "https://rytr.me/"
+  },
+  {
+    "id": 459,
+    "name": "Shortly AI",
+    "description": "AI writing partner untuk long-form content",
+    "category": "SMA ke atas",
+    "url": "https://www.shortlyai.com/"
+  },
+  {
+    "id": 460,
+    "name": "ContentBot",
+    "description": "AI content creation dengan plagiarism checker",
+    "category": "SMA ke atas",
+    "url": "https://contentbot.ai/"
+  },
+  {
+    "id": 461,
+    "name": "Article Forge",
+    "description": "AI article writer dengan automatic content generation",
+    "category": "Profesional",
+    "url": "https://www.articleforge.com/"
+  },
+  {
+    "id": 462,
+    "name": "INK Editor",
+    "description": "AI-powered SEO content optimization platform",
+    "category": "Profesional",
+    "url": "https://inkforall.com/"
+  },
+  {
+    "id": 463,
+    "name": "MarketMuse",
+    "description": "AI content planning dan optimization platform",
+    "category": "Profesional",
+    "url": "https://www.marketmuse.com/"
+  },
+  {
+    "id": 464,
+    "name": "Clearscope",
+    "description": "Content optimization platform untuk SEO",
+    "category": "Profesional",
+    "url": "https://www.clearscope.io/"
+  },
+  {
+    "id": 465,
+    "name": "Surfer SEO",
+    "description": "Data-driven content optimization untuk SEO",
+    "category": "Profesional",
+    "url": "https://surferseo.com/"
+  },
+  {
+    "id": 466,
+    "name": "Frase",
+    "description": "AI content optimization based pada top search results",
+    "category": "Profesional",
+    "url": "https://www.frase.io/"
+  },
+  {
+    "id": 467,
+    "name": "Page Optimizer Pro",
+    "description": "On-page SEO optimization tool",
+    "category": "Profesional",
+    "url": "https://pageoptimizer.pro/"
+  },
+  {
+    "id": 468,
+    "name": "Content King",
+    "description": "Real-time SEO monitoring dan optimization",
+    "category": "Profesional",
+    "url": "https://www.contentkingapp.com/"
+  },
+  {
+    "id": 469,
+    "name": "Yoast SEO",
+    "description": "WordPress SEO plugin untuk content optimization",
+    "category": "SMA ke atas",
+    "url": "https://yoast.com/"
+  },
+  {
+    "id": 470,
+    "name": "RankMath",
+    "description": "WordPress SEO plugin dengan advanced features",
+    "category": "SMA ke atas",
+    "url": "https://rankmath.com/"
+  },
+  {
+    "id": 471,
+    "name": "SEMrush",
+    "description": "All-in-one digital marketing toolkit",
+    "category": "Profesional",
+    "url": "https://www.semrush.com/"
+  },
+  {
+    "id": 472,
+    "name": "Ahrefs",
+    "description": "SEO toolset untuk growing search traffic",
+    "category": "Profesional",
+    "url": "https://ahrefs.com/"
+  },
+  {
+    "id": 473,
+    "name": "Moz",
+    "description": "SEO software dengan domain authority metrics",
+    "category": "Profesional",
+    "url": "https://moz.com/"
+  },
+  {
+    "id": 474,
+    "name": "Ubersuggest",
+    "description": "Keyword research dan SEO analysis tool",
+    "category": "SMA ke atas",
+    "url": "https://neilpatel.com/ubersuggest/"
+  },
+  {
+    "id": 475,
+    "name": "Google Search Console",
+    "description": "Free tools untuk monitoring search performance",
+    "category": "SMA ke atas",
+    "url": "https://search.google.com/search-console/"
+  },
+  {
+    "id": 476,
+    "name": "Google Analytics",
+    "description": "Web analytics service dari Google",
+    "category": "SMA ke atas",
+    "url": "https://analytics.google.com/"
+  },
+  {
+    "id": 477,
+    "name": "Google Tag Manager",
+    "description": "Tag management system untuk tracking codes",
+    "category": "SMA ke atas",
+    "url": "https://tagmanager.google.com/"
+  },
+  {
+    "id": 478,
+    "name": "Google Optimize",
+    "description": "A/B testing dan website optimization platform",
+    "category": "SMA ke atas",
+    "url": "https://optimize.google.com/"
+  },
+  {
+    "id": 479,
+    "name": "Hotjar",
+    "description": "User behavior analytics dengan heatmaps",
+    "category": "SMA ke atas",
+    "url": "https://www.hotjar.com/"
+  },
+  {
+    "id": 480,
+    "name": "Crazy Egg",
+    "description": "Heatmap dan A/B testing tools",
+    "category": "SMA ke atas",
+    "url": "https://www.crazyegg.com/"
+  },
+  {
+    "id": 481,
+    "name": "Mixpanel",
+    "description": "Advanced analytics untuk user engagement tracking",
+    "category": "Profesional",
+    "url": "https://mixpanel.com/"
+  },
+  {
+    "id": 482,
+    "name": "Amplitude",
+    "description": "Product analytics untuk understanding user behavior",
+    "category": "Profesional",
+    "url": "https://amplitude.com/"
+  },
+  {
+    "id": 483,
+    "name": "Adobe Analytics",
+    "description": "Enterprise-level analytics solution",
+    "category": "Profesional",
+    "url": "https://business.adobe.com/products/analytics/"
+  },
+  {
+    "id": 484,
+    "name": "Tableau",
+    "description": "Data visualization dan business intelligence platform",
+    "category": "Profesional",
+    "url": "https://www.tableau.com/"
+  },
+  {
+    "id": 485,
+    "name": "Power BI",
+    "description": "Microsoft's business analytics solution",
+    "category": "Profesional",
+    "url": "https://powerbi.microsoft.com/"
+  },
+  {
+    "id": 486,
+    "name": "Looker",
+    "description": "Data platform untuk business intelligence",
+    "category": "Profesional",
+    "url": "https://looker.com/"
+  },
+  {
+    "id": 487,
+    "name": "Qlik Sense",
+    "description": "Data analytics dan visualization platform",
+    "category": "Profesional",
+    "url": "https://www.qlik.com/qlik-sense"
+  },
+  {
+    "id": 488,
+    "name": "Plotly",
+    "description": "Interactive graphing dan analytics platform",
+    "category": "SMA ke atas",
+    "url": "https://plotly.com/"
+  },
+  {
+    "id": 489,
+    "name": "D3.js",
+    "description": "JavaScript library untuk data visualization",
+    "category": "SMA ke atas",
+    "url": "https://d3js.org/"
+  },
+  {
+    "id": 490,
+    "name": "Chart.js",
+    "description": "Simple yet flexible JavaScript charting library",
+    "category": "SMA ke atas",
+    "url": "https://www.chartjs.org/"
+  },
+  {
+    "id": 491,
+    "name": "Highcharts",
+    "description": "Interactive JavaScript charts untuk web",
+    "category": "SMA ke atas",
+    "url": "https://www.highcharts.com/"
+  },
+  {
+    "id": 492,
+    "name": "Grafana",
+    "description": "Open source analytics dan monitoring platform",
+    "category": "Profesional",
+    "url": "https://grafana.com/"
+  },
+  {
+    "id": 493,
+    "name": "Kibana",
+    "description": "Data visualization dashboard untuk Elasticsearch",
+    "category": "Profesional",
+    "url": "https://www.elastic.co/kibana"
+  },
+  {
+    "id": 494,
+    "name": "Superset",
+    "description": "Modern data exploration dan visualization platform",
+    "category": "Profesional",
+    "url": "https://superset.apache.org/"
+  },
+  {
+    "id": 495,
+    "name": "Metabase",
+    "description": "Open source business intelligence tool",
+    "category": "SMA ke atas",
+    "url": "https://www.metabase.com/"
+  },
+  {
+    "id": 496,
+    "name": "Google Data Studio",
+    "description": "Free data visualization dan dashboard tool",
+    "category": "SMA ke atas",
+    "url": "https://datastudio.google.com/"
+  },
+  {
+    "id": 497,
+    "name": "Flourish",
+    "description": "Data visualization dan storytelling platform",
+    "category": "SMP ke atas",
+    "url": "https://flourish.studio/"
+  },
+  {
+    "id": 498,
+    "name": "Infogram",
+    "description": "Easy-to-use infographic dan chart maker",
+    "category": "SMP ke atas",
+    "url": "https://infogram.com/"
+  },
+  {
+    "id": 499,
+    "name": "Piktochart",
+    "description": "Infographic maker dengan templates",
+    "category": "SMP ke atas",
+    "url": "https://piktochart.com/"
+  },
+  {
+    "id": 500,
+    "name": "Visme",
+    "description": "All-in-one visual content creation platform",
+    "category": "SMP ke atas",
+    "url": "https://www.visme.co/"
+  },
+  {
+    "id": 501,
+    "name": "Canva Pro",
+    "description": "Premium version Canva dengan advanced features dan templates",
+    "category": "SMP ke atas",
+    "url": "https://www.canva.com/pro/"
+  },
+  {
+    "id": 502,
+    "name": "Adobe Creative Cloud for Education",
+    "description": "Educational licensing untuk Adobe creative tools",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/education.html"
+  },
+  {
+    "id": 503,
+    "name": "Affinity Designer",
+    "description": "Professional vector graphics software alternatif Illustrator",
+    "category": "SMP ke atas",
+    "url": "https://affinity.serif.com/designer/"
+  },
+  {
+    "id": 504,
+    "name": "Affinity Photo",
+    "description": "Professional photo editing software alternatif Photoshop",
+    "category": "SMP ke atas",
+    "url": "https://affinity.serif.com/photo/"
+  },
+  {
+    "id": 505,
+    "name": "Affinity Publisher",
+    "description": "Professional desktop publishing software alternatif InDesign",
+    "category": "SMA ke atas",
+    "url": "https://affinity.serif.com/publisher/"
+  },
+  {
+    "id": 506,
+    "name": "Inkscape",
+    "description": "Free dan open-source vector graphics editor",
+    "category": "SMP ke atas",
+    "url": "https://inkscape.org/"
+  },
+  {
+    "id": 507,
+    "name": "Gravit Designer",
+    "description": "Cross-platform vector design tool",
+    "category": "SMP ke atas",
+    "url": "https://www.designer.io/"
+  },
+  {
+    "id": 508,
+    "name": "Vectr",
+    "description": "Free vector graphics editor untuk web dan desktop",
+    "category": "SMP ke atas",
+    "url": "https://vectr.com/"
+  },
+  {
+    "id": 509,
+    "name": "Boxy SVG",
+    "description": "SVG editor dengan clean interface",
+    "category": "SMP ke atas",
+    "url": "https://boxy-svg.com/"
+  },
+  {
+    "id": 510,
+    "name": "SVG-Edit",
+    "description": "Web-based SVG editor",
+    "category": "SMP ke atas",
+    "url": "https://svg-edit.github.io/svgedit/"
+  },
+  {
+    "id": 511,
+    "name": "Paint.NET",
+    "description": "Free image editor untuk Windows",
+    "category": "SD ke atas",
+    "url": "https://www.getpaint.net/"
+  },
+  {
+    "id": 512,
+    "name": "PhotoPea",
+    "description": "Free online photo editor yang mirip Photoshop",
+    "category": "SD ke atas",
+    "url": "https://www.photopea.com/"
+  },
+  {
+    "id": 513,
+    "name": "Pixlr",
+    "description": "Online photo editor dengan AI-powered tools",
+    "category": "SD ke atas",
+    "url": "https://pixlr.com/"
+  },
+  {
+    "id": 514,
+    "name": "GIMP Online",
+    "description": "Web version dari GIMP photo editor",
+    "category": "SMP ke atas",
+    "url": "https://www.photopea.com/"
+  },
+  {
+    "id": 515,
+    "name": "Sumo Paint",
+    "description": "Online photo editor dengan drawing tools",
+    "category": "SD ke atas",
+    "url": "https://sumo.app/"
+  },
+  {
+    "id": 516,
+    "name": "Canva for Education",
+    "description": "Free Canva Pro untuk educators dan students",
+    "category": "SD ke atas",
+    "url": "https://www.canva.com/education/"
+  },
+  {
+    "id": 517,
+    "name": "Book Creator",
+    "description": "Platform untuk creating digital books dan comics",
+    "category": "PAUD ke atas",
+    "url": "https://bookcreator.com/"
+  },
+  {
+    "id": 518,
+    "name": "StoryMapJS",
+    "description": "Tool untuk creating story maps dengan media",
+    "category": "SMP ke atas",
+    "url": "https://storymap.knightlab.com/"
+  },
+  {
+    "id": 519,
+    "name": "TimelineJS",
+    "description": "Tool untuk creating interactive timelines",
+    "category": "SMP ke atas",
+    "url": "https://timeline.knightlab.com/"
+  },
+  {
+    "id": 520,
+    "name": "ThingLink",
+    "description": "Platform untuk creating interactive media",
+    "category": "SMP ke atas",
+    "url": "https://www.thinglink.com/"
+  },
+  {
+    "id": 521,
+    "name": "H5P",
+    "description": "Platform untuk creating interactive content",
+    "category": "SMP ke atas",
+    "url": "https://h5p.org/"
+  },
+  {
+    "id": 522,
+    "name": "Genially",
+    "description": "Platform untuk creating interactive presentations dan infographics",
+    "category": "SMP ke atas",
+    "url": "https://genial.ly/"
+  },
+  {
+    "id": 523,
+    "name": "Nearpod",
+    "description": "Interactive lesson platform untuk classroom engagement",
+    "category": "SD ke atas",
+    "url": "https://nearpod.com/"
+  },
+  {
+    "id": 524,
+    "name": "Pear Deck",
+    "description": "Interactive presentation platform untuk education",
+    "category": "SD ke atas",
+    "url": "https://www.peardeck.com/"
+  },
+  {
+    "id": 525,
+    "name": "Mentimeter",
+    "description": "Interactive presentation software dengan real-time polling",
+    "category": "SMP ke atas",
+    "url": "https://www.mentimeter.com/"
+  },
+  {
+    "id": 526,
+    "name": "Kahoot!",
+    "description": "Game-based learning platform dengan quiz",
+    "category": "SD ke atas",
+    "url": "https://kahoot.com/"
+  },
+  {
+    "id": 527,
+    "name": "Quizizz",
+    "description": "Self-paced quiz platform yang fun dan interactive",
+    "category": "SD ke atas",
+    "url": "https://quizizz.com/"
+  },
+  {
+    "id": 528,
+    "name": "Gimkit",
+    "description": "Game show untuk classroom dengan earning virtual currency",
+    "category": "SD ke atas",
+    "url": "https://www.gimkit.com/"
+  },
+  {
+    "id": 529,
+    "name": "Blooket",
+    "description": "Game-based learning dengan berbagai game modes",
+    "category": "SD ke atas",
+    "url": "https://www.blooket.com/"
+  },
+  {
+    "id": 530,
+    "name": "Quizlet Live",
+    "description": "Real-time collaborative learning game dari Quizlet",
+    "category": "SD ke atas",
+    "url": "https://quizlet.com/live"
+  },
+  {
+    "id": 531,
+    "name": "AhaSlides",
+    "description": "Interactive presentation platform dengan audience engagement",
+    "category": "SMP ke atas",
+    "url": "https://ahaslides.com/"
+  },
+  {
+    "id": 532,
+    "name": "Poll Everywhere",
+    "description": "Live polling dan Q&A platform untuk presentations",
+    "category": "SMP ke atas",
+    "url": "https://www.polleverywhere.com/"
+  },
+  {
+    "id": 533,
+    "name": "Slido",
+    "description": "Audience interaction platform untuk meetings dan events",
+    "category": "SMP ke atas",
+    "url": "https://www.slido.com/"
+  },
+  {
+    "id": 534,
+    "name": "Wooclap",
+    "description": "Interactive platform untuk student engagement",
+    "category": "SMP ke atas",
+    "url": "https://www.wooclap.com/"
+  },
+  {
+    "id": 535,
+    "name": "Top Hat",
+    "description": "Interactive teaching platform untuk higher education",
+    "category": "Kuliah",
+    "url": "https://tophat.com/"
+  },
+  {
+    "id": 536,
+    "name": "iClicker",
+    "description": "Student response system untuk classroom engagement",
+    "category": "SMA ke atas",
+    "url": "https://www.iclicker.com/"
+  },
+  {
+    "id": 537,
+    "name": "Turning Technologies",
+    "description": "Audience response dan assessment platform",
+    "category": "SMA ke atas",
+    "url": "https://www.turningtechnologies.com/"
+  },
+  {
+    "id": 538,
+    "name": "Socrative",
+    "description": "Student response system dengan real-time results",
+    "category": "SD ke atas",
+    "url": "https://www.socrative.com/"
+  },
+  {
+    "id": 539,
+    "name": "Plickers",
+    "description": "Real-time assessment using paper cards dan mobile app",
+    "category": "SD ke atas",
+    "url": "https://www.plickers.com/"
+  },
+  {
+    "id": 540,
+    "name": "Formative",
+    "description": "Real-time feedback platform untuk teachers",
+    "category": "SD ke atas",
+    "url": "https://formative.com/"
+  },
+  {
+    "id": 541,
+    "name": "Edpuzzle",
+    "description": "Interactive video platform untuk education",
+    "category": "SD ke atas",
+    "url": "https://edpuzzle.com/"
+  },
+  {
+    "id": 542,
+    "name": "PlayPosit",
+    "description": "Interactive video learning platform",
+    "category": "SMP ke atas",
+    "url": "https://www.playposit.com/"
+  },
+  {
+    "id": 543,
+    "name": "Flipgrid",
+    "description": "Video discussion platform untuk classrooms",
+    "category": "SD ke atas",
+    "url": "https://info.flipgrid.com/"
+  },
+  {
+    "id": 544,
+    "name": "Padlet",
+    "description": "Virtual wall untuk collaboration dan sharing",
+    "category": "SD ke atas",
+    "url": "https://padlet.com/"
+  },
+  {
+    "id": 545,
+    "name": "Jamboard",
+    "description": "Google's digital whiteboard untuk collaboration",
+    "category": "SD ke atas",
+    "url": "https://jamboard.google.com/"
+  },
+  {
+    "id": 546,
+    "name": "Miro",
+    "description": "Online collaborative whiteboard platform",
+    "category": "SMP ke atas",
+    "url": "https://miro.com/"
+  },
+  {
+    "id": 547,
+    "name": "Mural",
+    "description": "Digital workspace untuk visual collaboration",
+    "category": "SMA ke atas",
+    "url": "https://www.mural.co/"
+  },
+  {
+    "id": 548,
+    "name": "Conceptboard",
+    "description": "Visual collaboration platform untuk teams",
+    "category": "SMA ke atas",
+    "url": "https://conceptboard.com/"
+  },
+  {
+    "id": 549,
+    "name": "Lucidchart",
+    "description": "Diagramming platform untuk flowcharts dan mind maps",
+    "category": "SMP ke atas",
+    "url": "https://www.lucidchart.com/"
+  },
+  {
+    "id": 550,
+    "name": "Draw.io (now Diagrams.net)",
+    "description": "Free online diagram software",
+    "category": "SMP ke atas",
+    "url": "https://www.diagrams.net/"
+  },
+  {
+    "id": 551,
+    "name": "Creately",
+    "description": "Diagramming dan design platform untuk visual collaboration",
+    "category": "SMP ke atas",
+    "url": "https://creately.com/"
+  },
+  {
+    "id": 552,
+    "name": "Cacoo",
+    "description": "Online diagramming tool untuk creating flowcharts",
+    "category": "SMP ke atas",
+    "url": "https://cacoo.com/"
+  },
+  {
+    "id": 553,
+    "name": "Gliffy",
+    "description": "Web-based diagramming software",
+    "category": "SMP ke atas",
+    "url": "https://www.gliffy.com/"
+  },
+  {
+    "id": 554,
+    "name": "XMind",
+    "description": "Mind mapping software untuk brainstorming",
+    "category": "SMP ke atas",
+    "url": "https://www.xmind.net/"
+  },
+  {
+    "id": 555,
+    "name": "MindMeister",
+    "description": "Online mind mapping tool untuk collaboration",
+    "category": "SMP ke atas",
+    "url": "https://www.mindmeister.com/"
+  },
+  {
+    "id": 556,
+    "name": "SimpleMind",
+    "description": "Cross-platform mind mapping tool",
+    "category": "SMP ke atas",
+    "url": "https://simplemind.eu/"
+  },
+  {
+    "id": 557,
+    "name": "FreeMind",
+    "description": "Free mind mapping software",
+    "category": "SMP ke atas",
+    "url": "http://freemind.sourceforge.net/"
+  },
+  {
+    "id": 558,
+    "name": "Mindomo",
+    "description": "Mind mapping platform dengan collaboration features",
+    "category": "SMP ke atas",
+    "url": "https://www.mindomo.com/"
+  },
+  {
+    "id": 559,
+    "name": "Coggle",
+    "description": "Simple collaborative mind maps",
+    "category": "SMP ke atas",
+    "url": "https://coggle.it/"
+  },
+  {
+    "id": 560,
+    "name": "MindManager",
+    "description": "Professional mind mapping software",
+    "category": "SMA ke atas",
+    "url": "https://www.mindjet.com/"
+  },
+  {
+    "id": 561,
+    "name": "ConceptDraw MINDMAP",
+    "description": "Professional mind mapping dan brainstorming software",
+    "category": "SMA ke atas",
+    "url": "https://www.conceptdraw.com/products/mindmap"
+  },
+  {
+    "id": 562,
+    "name": "iThoughts",
+    "description": "Mind mapping app untuk iOS dan macOS",
+    "category": "SMP ke atas",
+    "url": "https://www.toketaware.com/"
+  },
+  {
+    "id": 563,
+    "name": "MiMind",
+    "description": "Easy mind mapping tool untuk mobile",
+    "category": "SMP ke atas",
+    "url": "https://mimind.cryptobees.com/"
+  },
+  {
+    "id": 564,
+    "name": "GitMind",
+    "description": "Free mind mapping dengan cloud synchronization",
+    "category": "SMP ke atas",
+    "url": "https://gitmind.com/"
+  },
+  {
+    "id": 565,
+    "name": "Milanote",
+    "description": "Visual project management untuk creative work",
+    "category": "SMA ke atas",
+    "url": "https://milanote.com/"
+  },
+  {
+    "id": 566,
+    "name": "Whimsical",
+    "description": "Visual workspace untuk flowcharts, wireframes, mind maps",
+    "category": "SMA ke atas",
+    "url": "https://whimsical.com/"
+  },
+  {
+    "id": 567,
+    "name": "Figma for Education",
+    "description": "Free Figma Pro untuk educators dan students",
+    "category": "SMP ke atas",
+    "url": "https://www.figma.com/education/"
+  },
+  {
+    "id": 568,
+    "name": "Balsamiq",
+    "description": "Rapid wireframing tool untuk UI design",
+    "category": "SMA ke atas",
+    "url": "https://balsamiq.com/"
+  },
+  {
+    "id": 569,
+    "name": "MockFlow",
+    "description": "UI planning platform dengan wireframing tools",
+    "category": "SMA ke atas",
+    "url": "https://www.mockflow.com/"
+  },
+  {
+    "id": 570,
+    "name": "Wireframe.cc",
+    "description": "Simple wireframing tool",
+    "category": "SMA ke atas",
+    "url": "https://wireframe.cc/"
+  },
+  {
+    "id": 571,
+    "name": "Marvel App",
+    "description": "Design, prototype, dan collaborate platform",
+    "category": "SMA ke atas",
+    "url": "https://marvelapp.com/"
+  },
+  {
+    "id": 572,
+    "name": "InVision",
+    "description": "Digital product design platform dengan prototyping",
+    "category": "SMA ke atas",
+    "url": "https://www.invisionapp.com/"
+  },
+  {
+    "id": 573,
+    "name": "Adobe XD",
+    "description": "UI/UX design dan prototyping tool",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/products/xd.html"
+  },
+  {
+    "id": 574,
+    "name": "Principle",
+    "description": "Design animated dan interactive UI prototypes",
+    "category": "SMA ke atas",
+    "url": "http://principleformac.com/"
+  },
+  {
+    "id": 575,
+    "name": "ProtoPie",
+    "description": "Advanced prototyping tool untuk complex interactions",
+    "category": "SMA ke atas",
+    "url": "https://www.protopie.io/"
+  },
+  {
+    "id": 576,
+    "name": "Framer",
+    "description": "Interactive design tool dengan code components",
+    "category": "SMA ke atas",
+    "url": "https://www.framer.com/"
+  },
+  {
+    "id": 577,
+    "name": "Axure RP",
+    "description": "Advanced prototyping tool untuk UX professionals",
+    "category": "SMA ke atas",
+    "url": "https://www.axure.com/"
+  },
+  {
+    "id": 578,
+    "name": "JustinMind",
+    "description": "Prototyping tool untuk web dan mobile apps",
+    "category": "SMA ke atas",
+    "url": "https://www.justinmind.com/"
+  },
+  {
+    "id": 579,
+    "name": "MockPlus",
+    "description": "All-in-one design platform untuk collaboration",
+    "category": "SMA ke atas",
+    "url": "https://www.mockplus.com/"
+  },
+  {
+    "id": 580,
+    "name": "UXPin",
+    "description": "Full-stack UX design platform",
+    "category": "SMA ke atas",
+    "url": "https://www.uxpin.com/"
+  },
+  {
+    "id": 581,
+    "name": "Zeplin",
+    "description": "Design handoff tool untuk developer collaboration",
+    "category": "SMA ke atas",
+    "url": "https://zeplin.io/"
+  },
+  {
+    "id": 582,
+    "name": "Abstract",
+    "description": "Version control untuk design files",
+    "category": "SMA ke atas",
+    "url": "https://www.abstract.com/"
+  },
+  {
+    "id": 583,
+    "name": "Plant",
+    "description": "Version control untuk Sketch files",
+    "category": "SMA ke atas",
+    "url": "https://plantapp.io/"
+  },
+  {
+    "id": 584,
+    "name": "Lingo",
+    "description": "Asset management tool untuk design teams",
+    "category": "SMA ke atas",
+    "url": "https://www.lingoapp.com/"
+  },
+  {
+    "id": 585,
+    "name": "Avocode",
+    "description": "Design handoff dan version control tool",
+    "category": "SMA ke atas",
+    "url": "https://avocode.com/"
+  },
+  {
+    "id": 586,
+    "name": "Sympli",
+    "description": "Design handoff tool dengan automated specs",
+    "category": "SMA ke atas",
+    "url": "https://sympli.io/"
+  },
+  {
+    "id": 587,
+    "name": "Maze",
+    "description": "User testing platform untuk design validation",
+    "category": "SMA ke atas",
+    "url": "https://maze.co/"
+  },
+  {
+    "id": 588,
+    "name": "UsabilityHub",
+    "description": "Remote user research platform",
+    "category": "SMA ke atas",
+    "url": "https://usabilityhub.com/"
+  },
+  {
+    "id": 589,
+    "name": "UserTesting",
+    "description": "Platform untuk getting user feedback on designs",
+    "category": "SMA ke atas",
+    "url": "https://www.usertesting.com/"
+  },
+  {
+    "id": 590,
+    "name": "Lookback",
+    "description": "Live remote user research platform",
+    "category": "SMA ke atas",
+    "url": "https://lookback.io/"
+  },
+  {
+    "id": 591,
+    "name": "Optimal Workshop",
+    "description": "User research platform dengan card sorting dan tree testing",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/"
+  },
+  {
+    "id": 592,
+    "name": "Treejack",
+    "description": "Tree testing tool untuk information architecture",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/treejack"
+  },
+  {
+    "id": 593,
+    "name": "OptimalSort",
+    "description": "Card sorting tool untuk improving information architecture",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/optimalsort"
+  },
+  {
+    "id": 594,
+    "name": "Chalkmark",
+    "description": "First-click testing tool",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/chalkmark"
+  },
+  {
+    "id": 595,
+    "name": "Reframer",
+    "description": "Qualitative research tool untuk user insights",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/reframer"
+  },
+  {
+    "id": 596,
+    "name": "Questions",
+    "description": "Survey tool dari Optimal Workshop",
+    "category": "SMA ke atas",
+    "url": "https://www.optimalworkshop.com/questions"
+  },
+  {
+    "id": 597,
+    "name": "Typeform",
+    "description": "Interactive form builder dengan conversational interface",
+    "category": "SMP ke atas",
+    "url": "https://www.typeform.com/"
+  },
+  {
+    "id": 598,
+    "name": "Google Forms",
+    "description": "Free form builder dari Google",
+    "category": "SD ke atas",
+    "url": "https://www.google.com/forms/"
+  },
+  {
+    "id": 599,
+    "name": "Microsoft Forms",
+    "description": "Form builder dari Microsoft",
+    "category": "SD ke atas",
+    "url": "https://forms.microsoft.com/"
+  },
+  {
+    "id": 600,
+    "name": "SurveyMonkey",
+    "description": "Survey platform untuk creating polls dan questionnaires",
+    "category": "SMP ke atas",
+    "url": "https://www.surveymonkey.com/"
+  },
+  {
+    "id": 601,
+    "name": "Jotform",
+    "description": "Online form builder dengan advanced features",
+    "category": "SMP ke atas",
+    "url": "https://www.jotform.com/"
+  },
+  {
+    "id": 602,
+    "name": "Wufoo",
+    "description": "HTML form builder dengan easy drag-and-drop interface",
+    "category": "SMP ke atas",
+    "url": "https://www.wufoo.com/"
+  },
+  {
+    "id": 603,
+    "name": "Formstack",
+    "description": "Digital workplace productivity platform",
+    "category": "SMA ke atas",
+    "url": "https://www.formstack.com/"
+  },
+  {
+    "id": 604,
+    "name": "Gravity Forms",
+    "description": "WordPress form plugin dengan advanced features",
+    "category": "SMA ke atas",
+    "url": "https://www.gravityforms.com/"
+  },
+  {
+    "id": 605,
+    "name": "Ninja Forms",
+    "description": "WordPress form builder plugin",
+    "category": "SMA ke atas",
+    "url": "https://ninjaforms.com/"
+  },
+  {
+    "id": 606,
+    "name": "Contact Form 7",
+    "description": "Simple WordPress contact form plugin",
+    "category": "SMA ke atas",
+    "url": "https://contactform7.com/"
+  },
+  {
+    "id": 607,
+    "name": "Formidable Forms",
+    "description": "Advanced WordPress form builder",
+    "category": "SMA ke atas",
+    "url": "https://formidableforms.com/"
+  },
+  {
+    "id": 608,
+    "name": "WPForms",
+    "description": "Beginner friendly WordPress form plugin",
+    "category": "SMA ke atas",
+    "url": "https://wpforms.com/"
+  },
+  {
+    "id": 609,
+    "name": "Elementor",
+    "description": "WordPress page builder dengan drag & drop",
+    "category": "SMA ke atas",
+    "url": "https://elementor.com/"
+  },
+  {
+    "id": 610,
+    "name": "Beaver Builder",
+    "description": "WordPress page builder plugin",
+    "category": "SMA ke atas",
+    "url": "https://www.wpbeaverbuilder.com/"
+  },
+  {
+    "id": 611,
+    "name": "Divi Builder",
+    "description": "Visual page builder dari Elegant Themes",
+    "category": "SMA ke atas",
+    "url": "https://www.elegantthemes.com/gallery/divi/"
+  },
+  {
+    "id": 612,
+    "name": "Visual Composer",
+    "description": "Website builder untuk WordPress",
+    "category": "SMA ke atas",
+    "url": "https://visualcomposer.com/"
+  },
+  {
+    "id": 613,
+    "name": "Gutenberg",
+    "description": "Block editor untuk WordPress",
+    "category": "SMA ke atas",
+    "url": "https://wordpress.org/gutenberg/"
+  },
+  {
+    "id": 614,
+    "name": "Wix",
+    "description": "Website builder dengan drag-and-drop editor",
+    "category": "SMP ke atas",
+    "url": "https://www.wix.com/"
+  },
+  {
+    "id": 615,
+    "name": "Squarespace",
+    "description": "Website builder dengan beautiful templates",
+    "category": "SMP ke atas",
+    "url": "https://www.squarespace.com/"
+  },
+  {
+    "id": 616,
+    "name": "Weebly",
+    "description": "Easy website builder dengan ecommerce features",
+    "category": "SMP ke atas",
+    "url": "https://www.weebly.com/"
+  },
+  {
+    "id": 617,
+    "name": "Shopify",
+    "description": "Ecommerce platform untuk online stores",
+    "category": "SMA ke atas",
+    "url": "https://www.shopify.com/"
+  },
+  {
+    "id": 618,
+    "name": "BigCommerce",
+    "description": "Ecommerce platform untuk growing businesses",
+    "category": "SMA ke atas",
+    "url": "https://www.bigcommerce.com/"
+  },
+  {
+    "id": 619,
+    "name": "WooCommerce",
+    "description": "WordPress ecommerce plugin",
+    "category": "SMA ke atas",
+    "url": "https://woocommerce.com/"
+  },
+  {
+    "id": 620,
+    "name": "Magento",
+    "description": "Open-source ecommerce platform",
+    "category": "Profesional",
+    "url": "https://magento.com/"
+  },
+  {
+    "id": 621,
+    "name": "PrestaShop",
+    "description": "Free open-source ecommerce solution",
+    "category": "SMA ke atas",
+    "url": "https://www.prestashop.com/"
+  },
+  {
+    "id": 622,
+    "name": "OpenCart",
+    "description": "Free open source ecommerce platform",
+    "category": "SMA ke atas",
+    "url": "https://www.opencart.com/"
+  },
+  {
+    "id": 623,
+    "name": "Drupal",
+    "description": "Open source content management system",
+    "category": "SMA ke atas",
+    "url": "https://www.drupal.org/"
+  },
+  {
+    "id": 624,
+    "name": "Joomla",
+    "description": "Content management system untuk websites",
+    "category": "SMA ke atas",
+    "url": "https://www.joomla.org/"
+  },
+  {
+    "id": 625,
+    "name": "Ghost",
+    "description": "Publishing platform untuk bloggers dan journalists",
+    "category": "SMA ke atas",
+    "url": "https://ghost.org/"
+  },
+  {
+    "id": 626,
+    "name": "Medium",
+    "description": "Publishing platform untuk writers dan readers",
+    "category": "SMP ke atas",
+    "url": "https://medium.com/"
+  },
+  {
+    "id": 627,
+    "name": "Substack",
+    "description": "Newsletter platform untuk independent writers",
+    "category": "SMA ke atas",
+    "url": "https://substack.com/"
+  },
+  {
+    "id": 628,
+    "name": "ConvertKit",
+    "description": "Email marketing platform untuk creators",
+    "category": "SMA ke atas",
+    "url": "https://convertkit.com/"
+  },
+  {
+    "id": 629,
+    "name": "Mailchimp",
+    "description": "Marketing platform dengan email automation",
+    "category": "SMA ke atas",
+    "url": "https://mailchimp.com/"
+  },
+  {
+    "id": 630,
+    "name": "Constant Contact",
+    "description": "Email marketing dan automation platform",
+    "category": "SMA ke atas",
+    "url": "https://www.constantcontact.com/"
+  },
+  {
+    "id": 631,
+    "name": "AWeber",
+    "description": "Email marketing software untuk small businesses",
+    "category": "SMA ke atas",
+    "url": "https://www.aweber.com/"
+  },
+  {
+    "id": 632,
+    "name": "GetResponse",
+    "description": "Email marketing dan marketing automation",
+    "category": "SMA ke atas",
+    "url": "https://www.getresponse.com/"
+  },
+  {
+    "id": 633,
+    "name": "ActiveCampaign",
+    "description": "Customer experience automation platform",
+    "category": "SMA ke atas",
+    "url": "https://www.activecampaign.com/"
+  },
+  {
+    "id": 634,
+    "name": "Drip",
+    "description": "Ecommerce marketing automation platform",
+    "category": "SMA ke atas",
+    "url": "https://www.drip.com/"
+  },
+  {
+    "id": 635,
+    "name": "Klaviyo",
+    "description": "Email marketing platform untuk ecommerce",
+    "category": "SMA ke atas",
+    "url": "https://www.klaviyo.com/"
+  },
+  {
+    "id": 636,
+    "name": "Campaign Monitor",
+    "description": "Email marketing software dengan beautiful templates",
+    "category": "SMA ke atas",
+    "url": "https://www.campaignmonitor.com/"
+  },
+  {
+    "id": 637,
+    "name": "Email on Acid",
+    "description": "Email testing dan optimization platform",
+    "category": "SMA ke atas",
+    "url": "https://www.emailonacid.com/"
+  },
+  {
+    "id": 638,
+    "name": "Litmus",
+    "description": "Email testing dan analytics platform",
+    "category": "SMA ke atas",
+    "url": "https://www.litmus.com/"
+  },
+  {
+    "id": 639,
+    "name": "MailerLite",
+    "description": "Email marketing software untuk growing businesses",
+    "category": "SMA ke atas",
+    "url": "https://www.mailerlite.com/"
+  },
+  {
+    "id": 640,
+    "name": "Sendinblue",
+    "description": "All-in-one marketing platform",
+    "category": "SMA ke atas",
+    "url": "https://www.sendinblue.com/"
+  },
+  {
+    "id": 641,
+    "name": "HubSpot",
+    "description": "Inbound marketing, sales, dan service platform",
+    "category": "Profesional",
+    "url": "https://www.hubspot.com/"
+  },
+  {
+    "id": 642,
+    "name": "Salesforce",
+    "description": "Customer relationship management (CRM) platform",
+    "category": "Profesional",
+    "url": "https://www.salesforce.com/"
+  },
+  {
+    "id": 643,
+    "name": "Pipedrive",
+    "description": "Sales CRM untuk small teams",
+    "category": "SMA ke atas",
+    "url": "https://www.pipedrive.com/"
+  },
+  {
+    "id": 644,
+    "name": "Zoho CRM",
+    "description": "Customer relationship management software",
+    "category": "SMA ke atas",
+    "url": "https://www.zoho.com/crm/"
+  },
+  {
+    "id": 645,
+    "name": "Freshworks CRM",
+    "description": "Modern CRM untuk sales teams",
+    "category": "SMA ke atas",
+    "url": "https://www.freshworks.com/crm/"
+  },
+  {
+    "id": 646,
+    "name": "Monday.com",
+    "description": "Work management platform dengan customizable workflows",
+    "category": "SMA ke atas",
+    "url": "https://monday.com/"
+  },
+  {
+    "id": 647,
+    "name": "Asana",
+    "description": "Team collaboration dan project management platform",
+    "category": "SMP ke atas",
+    "url": "https://asana.com/"
+  },
+  {
+    "id": 648,
+    "name": "Trello",
+    "description": "Kanban-style project management tool",
+    "category": "SMP ke atas",
+    "url": "https://trello.com/"
+  },
+  {
+    "id": 649,
+    "name": "Slack",
+    "description": "Team communication platform dengan channels",
+    "category": "SMP ke atas",
+    "url": "https://slack.com/"
+  },
+  {
+    "id": 650,
+    "name": "Discord",
+    "description": "Voice, video, dan text communication untuk communities",
+    "category": "SMP ke atas",
+    "url": "https://discord.com/"
+  },
+  {
+    "id": 651,
+    "name": "Microsoft Teams",
+    "description": "Collaboration platform untuk workplace communication",
+    "category": "SMP ke atas",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams/"
+  },
+  {
+    "id": 652,
+    "name": "Zoom",
+    "description": "Video conferencing platform untuk remote meetings",
+    "category": "SD ke atas",
+    "url": "https://zoom.us/"
+  },
+  {
+    "id": 653,
+    "name": "Google Meet",
+    "description": "Video conferencing dari Google",
+    "category": "SD ke atas",
+    "url": "https://meet.google.com/"
+  },
+  {
+    "id": 654,
+    "name": "Skype",
+    "description": "Video calling dan messaging service",
+    "category": "SD ke atas",
+    "url": "https://www.skype.com/"
+  },
+  {
+    "id": 655,
+    "name": "BigBlueButton",
+    "description": "Open source web conferencing untuk education",
+    "category": "SD ke atas",
+    "url": "https://bigbluebutton.org/"
+  },
+  {
+    "id": 656,
+    "name": "Jitsi Meet",
+    "description": "Free video conferencing platform",
+    "category": "SMP ke atas",
+    "url": "https://meet.jit.si/"
+  },
+  {
+    "id": 657,
+    "name": "Webex",
+    "description": "Video conferencing dan collaboration platform",
+    "category": "SMA ke atas",
+    "url": "https://www.webex.com/"
+  },
+  {
+    "id": 658,
+    "name": "GoToMeeting",
+    "description": "Professional video conferencing platform",
+    "category": "SMA ke atas",
+    "url": "https://www.gotomeeting.com/"
+  },
+  {
+    "id": 659,
+    "name": "BlueJeans",
+    "description": "Video conferencing platform dengan enterprise features",
+    "category": "SMA ke atas",
+    "url": "https://www.bluejeans.com/"
+  },
+  {
+    "id": 660,
+    "name": "Whereby",
+    "description": "Browser-based video meetings",
+    "category": "SMP ke atas",
+    "url": "https://whereby.com/"
+  },
+  {
+    "id": 661,
+    "name": "Loom",
+    "description": "Video messaging untuk async communication",
+    "category": "SMP ke atas",
+    "url": "https://www.loom.com/"
+  },
+  {
+    "id": 662,
+    "name": "Screencast-O-Matic",
+    "description": "Screen recording dan video creation platform",
+    "category": "SD ke atas",
+    "url": "https://screencast-o-matic.com/"
+  },
+  {
+    "id": 663,
+    "name": "Camtasia",
+    "description": "Screen recording dan video editing software",
+    "category": "SMP ke atas",
+    "url": "https://www.techsmith.com/video-editor.html"
+  },
+  {
+    "id": 664,
+    "name": "Snagit",
+    "description": "Screen capture dan annotation tool",
+    "category": "SMP ke atas",
+    "url": "https://www.techsmith.com/screen-capture.html"
+  },
+  {
+    "id": 665,
+    "name": "CloudApp",
+    "description": "Visual communication platform dengan screen recording",
+    "category": "SMP ke atas",
+    "url": "https://www.getcloudapp.com/"
+  },
+  {
+    "id": 666,
+    "name": "Monosnap",
+    "description": "Screenshot tool dengan annotation features",
+    "category": "SMP ke atas",
+    "url": "https://monosnap.com/"
+  },
+  {
+    "id": 667,
+    "name": "LightShot",
+    "description": "Screenshot tool dengan easy sharing",
+    "category": "SMP ke atas",
+    "url": "https://app.prntscr.com/"
+  },
+  {
+    "id": 668,
+    "name": "Greenshot",
+    "description": "Free screenshot tool dengan annotation",
+    "category": "SMP ke atas",
+    "url": "https://getgreenshot.org/"
+  },
+  {
+    "id": 669,
+    "name": "Nimbus Screenshot",
+    "description": "Screenshot dan screen recording extension",
+    "category": "SMP ke atas",
+    "url": "https://nimbusweb.me/screenshot.php"
+  },
+  {
+    "id": 670,
+    "name": "Awesome Screenshot",
+    "description": "Browser extension untuk screenshots dan screen recording",
+    "category": "SMP ke atas",
+    "url": "https://www.awesomescreenshot.com/"
+  },
+  {
+    "id": 671,
+    "name": "OBS Studio",
+    "description": "Free open source software untuk video recording dan live streaming",
+    "category": "SMA ke atas",
+    "url": "https://obsproject.com/"
+  },
+  {
+    "id": 672,
+    "name": "Streamlabs",
+    "description": "Live streaming software dengan alerts dan overlays",
+    "category": "SMA ke atas",
+    "url": "https://streamlabs.com/"
+  },
+  {
+    "id": 673,
+    "name": "XSplit",
+    "description": "Live streaming dan recording software",
+    "category": "SMA ke atas",
+    "url": "https://www.xsplit.com/"
+  },
+  {
+    "id": 674,
+    "name": "Bandicam",
+    "description": "Screen recording software untuk Windows",
+    "category": "SMP ke atas",
+    "url": "https://www.bandicam.com/"
+  },
+  {
+    "id": 675,
+    "name": "Fraps",
+    "description": "Game recording software dengan benchmarking",
+    "category": "SMP ke atas",
+    "url": "http://www.fraps.com/"
+  },
+  {
+    "id": 676,
+    "name": "QuickTime Player",
+    "description": "Built-in Mac screen recording software",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 677,
+    "name": "Windows Game Bar",
+    "description": "Built-in Windows screen recording tool",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 678,
+    "name": "Kap",
+    "description": "Open-source screen recorder untuk macOS",
+    "category": "SMP ke atas",
+    "url": "https://getkap.co/"
+  },
+  {
+    "id": 679,
+    "name": "Gifox",
+    "description": "GIF recording app untuk macOS",
+    "category": "SMP ke atas",
+    "url": "https://gifox.io/"
+  },
+  {
+    "id": 680,
+    "name": "LICEcap",
+    "description": "Simple animated screen capture tool",
+    "category": "SMP ke atas",
+    "url": "https://www.cockos.com/licecap/"
+  },
+  {
+    "id": 681,
+    "name": "ScreenToGif",
+    "description": "Screen, webcam dan sketchboard recorder dengan editor",
+    "category": "SMP ke atas",
+    "url": "https://www.screentogif.com/"
+  },
+  {
+    "id": 682,
+    "name": "Gyazo",
+    "description": "Instant screenshot sharing tool",
+    "category": "SMP ke atas",
+    "url": "https://gyazo.com/"
+  },
+  {
+    "id": 683,
+    "name": "Imgur",
+    "description": "Image hosting dan sharing platform",
+    "category": "SMP ke atas",
+    "url": "https://imgur.com/"
+  },
+  {
+    "id": 684,
+    "name": "TinyPNG",
+    "description": "PNG dan JPEG compression tool",
+    "category": "SMP ke atas",
+    "url": "https://tinypng.com/"
+  },
+  {
+    "id": 685,
+    "name": "Squoosh",
+    "description": "Image compression web app dari Google",
+    "category": "SMP ke atas",
+    "url": "https://squoosh.app/"
+  },
+  {
+    "id": 686,
+    "name": "Remove.bg",
+    "description": "AI-powered background removal tool",
+    "category": "SMP ke atas",
+    "url": "https://www.remove.bg/"
+  },
+  {
+    "id": 687,
+    "name": "Canva Background Remover",
+    "description": "Background removal tool dalam Canva",
+    "category": "SMP ke atas",
+    "url": "https://www.canva.com/background-remover/"
+  },
+  {
+    "id": 688,
+    "name": "Photoscissors",
+    "description": "Background removal software",
+    "category": "SMP ke atas",
+    "url": "https://photoscissors.com/"
+  },
+  {
+    "id": 689,
+    "name": "ClippingMagic",
+    "description": "Background removal tool dengan easy interface",
+    "category": "SMP ke atas",
+    "url": "https://clippingmagic.com/"
+  },
+  {
+    "id": 690,
+    "name": "Unscreen",
+    "description": "Remove video backgrounds automatically",
+    "category": "SMA ke atas",
+    "url": "https://www.unscreen.com/"
+  },
+  {
+    "id": 691,
+    "name": "RunwayML Green Screen",
+    "description": "AI-powered green screen effect",
+    "category": "SMA ke atas",
+    "url": "https://runwayml.com/"
+  },
+  {
+    "id": 692,
+    "name": "Kapwing",
+    "description": "Online video editing platform",
+    "category": "SMP ke atas",
+    "url": "https://www.kapwing.com/"
+  },
+  {
+    "id": 693,
+    "name": "InVideo",
+    "description": "Online video creation platform dengan templates",
+    "category": "SMP ke atas",
+    "url": "https://invideo.io/"
+  },
+  {
+    "id": 694,
+    "name": "Animoto",
+    "description": "Video creation platform untuk marketing",
+    "category": "SMP ke atas",
+    "url": "https://animoto.com/"
+  },
+  {
+    "id": 695,
+    "name": "Lumen5",
+    "description": "AI-powered video creation platform",
+    "category": "SMP ke atas",
+    "url": "https://lumen5.com/"
+  },
+  {
+    "id": 696,
+    "name": "Biteable",
+    "description": "Video maker dengan animated templates",
+    "category": "SMP ke atas",
+    "url": "https://biteable.com/"
+  },
+  {
+    "id": 697,
+    "name": "Renderforest",
+    "description": "Online video, animation, dan design platform",
+    "category": "SMP ke atas",
+    "url": "https://www.renderforest.com/"
+  },
+  {
+    "id": 698,
+    "name": "Powtoon",
+    "description": "Animated presentation dan video creation",
+    "category": "SMP ke atas",
+    "url": "https://www.powtoon.com/"
+  },
+  {
+    "id": 699,
+    "name": "Vyond",
+    "description": "Professional animation software untuk business",
+    "category": "SMA ke atas",
+    "url": "https://www.vyond.com/"
+  },
+  {
+    "id": 700,
+    "name": "Moovly",
+    "description": "Video creation platform dengan multimedia library",
+    "category": "SMP ke atas",
+    "url": "https://www.moovly.com/"
+  },
+  {
+    "id": 701,
+    "name": "Adobe Premiere Pro",
+    "description": "Professional video editing software",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/products/premiere.html"
+  },
+  {
+    "id": 702,
+    "name": "Final Cut Pro",
+    "description": "Professional video editing software untuk Mac",
+    "category": "SMA ke atas",
+    "url": "https://www.apple.com/final-cut-pro/"
+  },
+  {
+    "id": 703,
+    "name": "DaVinci Resolve",
+    "description": "Free professional video editing software",
+    "category": "SMA ke atas",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/"
+  },
+  {
+    "id": 704,
+    "name": "Adobe After Effects",
+    "description": "Motion graphics dan visual effects software",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/products/aftereffects.html"
+  },
+  {
+    "id": 705,
+    "name": "iMovie",
+    "description": "Easy video editing software untuk Mac dan iOS",
+    "category": "SD ke atas",
+    "url": "https://www.apple.com/imovie/"
+  },
+  {
+    "id": 706,
+    "name": "Windows Movie Maker",
+    "description": "Basic video editing software untuk Windows",
+    "category": "SD ke atas",
+    "url": ""
+  },
+  {
+    "id": 707,
+    "name": "OpenShot",
+    "description": "Free, open-source video editor",
+    "category": "SMP ke atas",
+    "url": "https://www.openshot.org/"
+  },
+  {
+    "id": 708,
+    "name": "Shotcut",
+    "description": "Free, open-source video editing software",
+    "category": "SMP ke atas",
+    "url": "https://shotcut.org/"
+  },
+  {
+    "id": 709,
+    "name": "Kdenlive",
+    "description": "Free dan open-source video editor",
+    "category": "SMP ke atas",
+    "url": "https://kdenlive.org/"
+  },
+  {
+    "id": 710,
+    "name": "HitFilm Express",
+    "description": "Free video editing software dengan VFX",
+    "category": "SMA ke atas",
+    "url": "https://fxhome.com/hitfilm-express"
+  },
+  {
+    "id": 711,
+    "name": "VSDC Free Video Editor",
+    "description": "Non-linear video editor untuk Windows",
+    "category": "SMP ke atas",
+    "url": "http://www.videosoftdev.com/"
+  },
+  {
+    "id": 712,
+    "name": "Lightworks",
+    "description": "Professional video editing software",
+    "category": "SMA ke atas",
+    "url": "https://www.lwks.com/"
+  },
+  {
+    "id": 713,
+    "name": "Avid Media Composer",
+    "description": "Industry-standard video editing software",
+    "category": "Profesional",
+    "url": "https://www.avid.com/media-composer"
+  },
+  {
+    "id": 714,
+    "name": "Sony Vegas Pro",
+    "description": "Professional video editing software",
+    "category": "SMA ke atas",
+    "url": "https://www.vegascreativesoftware.com/"
+  },
+  {
+    "id": 715,
+    "name": "Filmora",
+    "description": "Easy-to-use video editing software",
+    "category": "SMP ke atas",
+    "url": "https://filmora.wondershare.com/"
+  },
+  {
+    "id": 716,
+    "name": "CyberLink PowerDirector",
+    "description": "Video editing software dengan AI tools",
+    "category": "SMP ke atas",
+    "url": "https://www.cyberlink.com/products/powerdirector-video-editing-software/"
+  },
+  {
+    "id": 717,
+    "name": "Pinnacle Studio",
+    "description": "Video editing software untuk hobbyists",
+    "category": "SMP ke atas",
+    "url": "https://www.pinnaclesys.com/pinnacle-studio"
+  },
+  {
+    "id": 718,
+    "name": "Adobe Audition",
+    "description": "Professional audio editing software",
+    "category": "SMA ke atas",
+    "url": "https://www.adobe.com/products/audition.html"
+  },
+  {
+    "id": 719,
+    "name": "Pro Tools",
+    "description": "Industry-standard audio production software",
+    "category": "Profesional",
+    "url": "https://www.avid.com/pro-tools"
+  },
+  {
+    "id": 720,
+    "name": "Logic Pro",
+    "description": "Professional music production software untuk Mac",
+    "category": "SMA ke atas",
+    "url": "https://www.apple.com/logic-pro/"
+  },
+  {
+    "id": 721,
+    "name": "Ableton Live",
+    "description": "Music production software untuk live performance",
+    "category": "SMA ke atas",
+    "url": "https://www.ableton.com/"
+  },
+  {
+    "id": 722,
+    "name": "Cubase",
+    "description": "Digital audio workstation dari Steinberg",
+    "category": "SMA ke atas",
+    "url": "https://www.steinberg.net/cubase/"
+  },
+  {
+    "id": 723,
+    "name": "Reaper",
+    "description": "Affordable digital audio workstation",
+    "category": "SMA ke atas",
+    "url": "https://www.reaper.fm/"
+  },
+  {
+    "id": 724,
+    "name": "Studio One",
+    "description": "Digital audio workstation dari PreSonus",
+    "category": "SMA ke atas",
+    "url": "https://www.presonus.com/products/Studio-One"
+  },
+  {
+    "id": 725,
+    "name": "Reason",
+    "description": "Music production software dengan virtual rack",
+    "category": "SMA ke atas",
+    "url": "https://reasonstudios.com/"
+  },
+  {
+    "id": 726,
+    "name": "Hindenburg Pro",
+    "description": "Audio editing software untuk journalism",
+    "category": "Profesional",
+    "url": "https://hindenburg.com/"
+  },
+  {
+    "id": 727,
+    "name": "WavePad",
+    "description": "Audio editing software untuk beginners",
+    "category": "SMP ke atas",
+    "url": "https://www.nch.com.au/wavepad/"
+  },
+  {
+    "id": 728,
+    "name": "Ocenaudio",
+    "description": "Cross-platform audio editor",
+    "category": "SMP ke atas",
+    "url": "https://www.ocenaudio.com/"
+  },
+  {
+    "id": 729,
+    "name": "TwistedWave",
+    "description": "Audio editor untuk macOS dan iOS",
+    "category": "SMP ke atas",
+    "url": "https://twistedwave.com/"
+  },
+  {
+    "id": 730,
+    "name": "Lexis Audio Editor",
+    "description": "Android audio editing app",
+    "category": "SMP ke atas",
+    "url": ""
+  },
+  {
+    "id": 731,
+    "name": "Anchor",
+    "description": "Podcast creation dan hosting platform",
+    "category": "SMP ke atas",
+    "url": "https://anchor.fm/"
+  },
+  {
+    "id": 732,
+    "name": "Spotify for Podcasters",
+    "description": "Podcast hosting dan analytics",
+    "category": "SMP ke atas",
+    "url": "https://podcasters.spotify.com/"
+  },
+  {
+    "id": 733,
+    "name": "Buzzsprout",
+    "description": "Podcast hosting dengan easy setup",
+    "category": "SMP ke atas",
+    "url": "https://www.buzzsprout.com/"
+  },
+  {
+    "id": 734,
+    "name": "Libsyn",
+    "description": "Podcast hosting dan syndication platform",
+    "category": "SMP ke atas",
+    "url": "https://libsyn.com/"
+  },
+  {
+    "id": 735,
+    "name": "Simplecast",
+    "description": "Podcast hosting dengan analytics",
+    "category": "SMP ke atas",
+    "url": "https://simplecast.com/"
+  },
+  {
+    "id": 736,
+    "name": "Transistor",
+    "description": "Professional podcast hosting",
+    "category": "SMA ke atas",
+    "url": "https://transistor.fm/"
+  },
+  {
+    "id": 737,
+    "name": "Castos",
+    "description": "Podcast hosting dengan WordPress integration",
+    "category": "SMA ke atas",
+    "url": "https://castos.com/"
+  },
+  {
+    "id": 738,
+    "name": "RedCircle",
+    "description": "Podcast hosting dengan monetization features",
+    "category": "SMA ke atas",
+    "url": "https://redcircle.com/"
+  },
+  {
+    "id": 739,
+    "name": "Podcast One",
+    "description": "Podcast network dan hosting",
+    "category": "SMA ke atas",
+    "url": "https://www.podcastone.com/"
+  },
+  {
+    "id": 740,
+    "name": "Spreaker",
+    "description": "Podcast creation dan hosting platform",
+    "category": "SMP ke atas",
+    "url": "https://www.spreaker.com/"
+  },
+  {
+    "id": 741,
+    "name": "Riverside.fm",
+    "description": "Remote podcast dan video recording",
+    "category": "SMA ke atas",
+    "url": "https://riverside.fm/"
+  },
+  {
+    "id": 742,
+    "name": "SquadCast",
+    "description": "Remote podcast recording platform",
+    "category": "SMA ke atas",
+    "url": "https://squadcast.fm/"
+  },
+  {
+    "id": 743,
+    "name": "Zencastr",
+    "description": "Remote podcast recording dengan local backup",
+    "category": "SMA ke atas",
+    "url": "https://zencastr.com/"
+  },
+  {
+    "id": 744,
+    "name": "Craig",
+    "description": "Discord bot untuk recording audio",
+    "category": "SMP ke atas",
+    "url": "https://craig.horse/"
+  },
+  {
+    "id": 745,
+    "name": "Descript",
+    "description": "Audio editing software dengan transcription",
+    "category": "SMA ke atas",
+    "url": "https://www.descript.com/"
+  },
+  {
+    "id": 746,
+    "name": "Otter.ai",
+    "description": "AI-powered transcription service",
+    "category": "SMA ke atas",
+    "url": "https://otter.ai/"
+  },
+  {
+    "id": 747,
+    "name": "Rev",
+    "description": "Human transcription service",
+    "category": "SMA ke atas",
+    "url": "https://www.rev.com/"
+  },
+  {
+    "id": 748,
+    "name": "Trint",
+    "description": "AI transcription dengan editing tools",
+    "category": "SMA ke atas",
+    "url": "https://trint.com/"
+  },
+  {
+    "id": 749,
+    "name": "Happy Scribe",
+    "description": "Transcription dan subtitling service",
+    "category": "SMA ke atas",
+    "url": "https://www.happyscribe.com/"
+  },
+  {
+    "id": 750,
+    "name": "Sonix",
+    "description": "AI transcription dengan collaboration features",
+    "category": "SMA ke atas",
+    "url": "https://sonix.ai/"
+  },
+  {
+    "id": 751,
+    "name": "Whisper (OpenAI)",
+    "description": "Open-source speech recognition system",
+    "category": "SMA ke atas",
+    "url": "https://openai.com/blog/whisper/"
+  },
+  {
+    "id": 752,
+    "name": "Auphonic",
+    "description": "Audio post production service",
+    "category": "SMA ke atas",
+    "url": "https://auphonic.com/"
+  },
+  {
+    "id": 753,
+    "name": "Headliner",
+    "description": "Audiogram creation untuk social media",
+    "category": "SMP ke atas",
+    "url": "https://www.headliner.app/"
+  },
+  {
+    "id": 754,
+    "name": "Wavve",
+    "description": "Audiogram maker untuk podcasts",
+    "category": "SMP ke atas",
+    "url": "https://wavve.co/"
+  },
+  {
+    "id": 755,
+    "name": "Podcorn",
+    "description": "Podcast advertising marketplace",
+    "category": "SMA ke atas",
+    "url": "https://podcorn.com/"
+  },
+  {
+    "id": 756,
+    "name": "AdvertiseCast",
+    "description": "Podcast advertising platform",
+    "category": "SMA ke atas",
+    "url": "https://advertisecast.com/"
+  },
+  {
+    "id": 757,
+    "name": "Spotify Ad Studio",
+    "description": "Self-serve audio advertising platform",
+    "category": "SMA ke atas",
+    "url": "https://adstudio.spotify.com/"
+  },
+  {
+    "id": 758,
+    "name": "YouTube Creator Studio",
+    "description": "Tools untuk managing YouTube channels",
+    "category": "SMP ke atas",
+    "url": "https://studio.youtube.com/"
+  },
+  {
+    "id": 759,
+    "name": "TubeBuddy",
+    "description": "YouTube optimization dan management tools",
+    "category": "SMP ke atas",
+    "url": "https://www.tubebuddy.com/"
+  },
+  {
+    "id": 760,
+    "name": "VidIQ",
+    "description": "YouTube SEO dan analytics tools",
+    "category": "SMP ke atas",
+    "url": "https://vidiq.com/"
+  },
+  {
+    "id": 761,
+    "name": "Social Blade",
+    "description": "Social media statistics dan analytics",
+    "category": "SMP ke atas",
+    "url": "https://socialblade.com/"
+  },
+  {
+    "id": 762,
+    "name": "Canva Video Editor",
+    "description": "Simple video editing tools dalam Canva",
+    "category": "SD ke atas",
+    "url": "https://www.canva.com/video-editor/"
+  },
+  {
+    "id": 763,
+    "name": "VSCO",
+    "description": "Photo editing app dengan film-like presets",
+    "category": "SMP ke atas",
+    "url": "https://vsco.co/"
+  },
+  {
+    "id": 764,
+    "name": "Instagram Creator Studio",
+    "description": "Tools untuk managing Instagram business accounts",
+    "category": "SMP ke atas",
+    "url": "https://business.instagram.com/creators"
+  },
+  {
+    "id": 765,
+    "name": "Facebook Creator Studio",
+    "description": "Content management tools untuk Facebook dan Instagram",
+    "category": "SMP ke atas",
+    "url": "https://business.facebook.com/creatorstudio"
+  },
+  {
+    "id": 766,
+    "name": "Later",
+    "description": "Social media scheduling platform",
+    "category": "SMA ke atas",
+    "url": "https://later.com/"
+  },
+  {
+    "id": 767,
+    "name": "Hootsuite",
+    "description": "Social media management platform",
+    "category": "SMA ke atas",
+    "url": "https://hootsuite.com/"
+  },
+  {
+    "id": 768,
+    "name": "Buffer",
+    "description": "Social media scheduling dan analytics",
+    "category": "SMA ke atas",
+    "url": "https://buffer.com/"
+  },
+  {
+    "id": 769,
+    "name": "Sprout Social",
+    "description": "Social media management dan analytics",
+    "category": "Profesional",
+    "url": "https://sproutsocial.com/"
+  },
+  {
+    "id": 770,
+    "name": "SocialBee",
+    "description": "Social media scheduling dengan content categories",
+    "category": "SMA ke atas",
+    "url": "https://socialbee.io/"
+  },
+  {
+    "id": 771,
+    "name": "MeetEdgar",
+    "description": "Social media scheduling dengan content recycling",
+    "category": "SMA ke atas",
+    "url": "https://meetedgar.com/"
+  },
+  {
+    "id": 772,
+    "name": "CoSchedule",
+    "description": "Marketing calendar dan social media scheduling",
+    "category": "SMA ke atas",
+    "url": "https://coschedule.com/"
+  },
+  {
+    "id": 773,
+    "name": "Socialbakers",
+    "description": "Social media analytics dan competitive intelligence",
+    "category": "Profesional",
+    "url": "https://www.socialbakers.com/"
+  },
+  {
+    "id": 774,
+    "name": "Brand24",
+    "description": "Social media monitoring dan analytics",
+    "category": "SMA ke atas",
+    "url": "https://brand24.com/"
+  },
+  {
+    "id": 775,
+    "name": "Mention",
+    "description": "Social media monitoring platform",
+    "category": "SMA ke atas",
+    "url": "https://mention.com/"
+  },
+  {
+    "id": 776,
+    "name": "BuzzSumo",
+    "description": "Content research dan social media analytics",
+    "category": "SMA ke atas",
+    "url": "https://buzzsumo.com/"
+  },
+  {
+    "id": 777,
+    "name": "Keyhole",
+    "description": "Hashtag tracking dan social media analytics",
+    "category": "SMA ke atas",
+    "url": "https://keyhole.co/"
+  },
+  {
+    "id": 778,
+    "name": "Hashtagify",
+    "description": "Hashtag research dan analytics tool",
+    "category": "SMA ke atas",
+    "url": "https://hashtagify.me/"
+  },
+  {
+    "id": 779,
+    "name": "RiteTag",
+    "description": "Hashtag suggestions untuk social media",
+    "category": "SMP ke atas",
+    "url": "https://ritetag.com/"
+  },
+  {
+    "id": 780,
+    "name": "All Hashtag",
+    "description": "Free hashtag generator dan analytics",
+    "category": "SMP ke atas",
+    "url": "https://www.all-hashtag.com/"
+  },
+  {
+    "id": 781,
+    "name": "Tagboard",
+    "description": "Social media content curation platform",
+    "category": "SMA ke atas",
+    "url": "https://tagboard.com/"
+  },
+  {
+    "id": 782,
+    "name": "IFTTT for Social Media",
+    "description": "Automation untuk social media workflows",
+    "category": "SMP ke atas",
+    "url": "https://ifttt.com/"
+  },
+  {
+    "id": 783,
+    "name": "Zapier for Social Media",
+    "description": "Advanced automation untuk social media management",
+    "category": "SMA ke atas",
+    "url": "https://zapier.com/"
+  },
+  {
+    "id": 784,
+    "name": "GIPHY",
+    "description": "GIF search dan creation platform",
+    "category": "SD ke atas",
+    "url": "https://giphy.com/"
+  },
+  {
+    "id": 785,
+    "name": "Tenor",
+    "description": "GIF keyboard dan search platform",
+    "category": "SD ke atas",
+    "url": "https://tenor.com/"
+  },
+  {
+    "id": 786,
+    "name": "Unsplash",
+    "description": "Free high-quality stock photos",
+    "category": "SMP ke atas",
+    "url": "https://unsplash.com/"
+  },
+  {
+    "id": 787,
+    "name": "Pexels",
+    "description": "Free stock photos dan videos",
+    "category": "SMP ke atas",
+    "url": "https://www.pexels.com/"
+  },
+  {
+    "id": 788,
+    "name": "Pixabay",
+    "description": "Free images, videos, dan music",
+    "category": "SMP ke atas",
+    "url": "https://pixabay.com/"
+  },
+  {
+    "id": 789,
+    "name": "Freepik",
+    "description": "Free vectors, stock photos, dan PSD files",
+    "category": "SMP ke atas",
+    "url": "https://www.freepik.com/"
+  },
+  {
+    "id": 790,
+    "name": "Shutterstock",
+    "description": "Premium stock photos, vectors, dan videos",
+    "category": "SMA ke atas",
+    "url": "https://www.shutterstock.com/"
+  },
+  {
+    "id": 791,
+    "name": "Getty Images",
+    "description": "High-quality stock photography",
+    "category": "Profesional",
+    "url": "https://www.gettyimages.com/"
+  },
+  {
+    "id": 792,
+    "name": "Adobe Stock",
+    "description": "Stock media dengan Creative Cloud integration",
+    "category": "SMA ke atas",
+    "url": "https://stock.adobe.com/"
+  },
+  {
+    "id": 793,
+    "name": "iStock",
+    "description": "Affordable stock photos dan illustrations",
+    "category": "SMA ke atas",
+    "url": "https://www.istockphoto.com/"
+  },
+  {
+    "id": 794,
+    "name": "123RF",
+    "description": "Stock photos, vectors, dan audio files",
+    "category": "SMA ke atas",
+    "url": "https://www.123rf.com/"
+  },
+  {
+    "id": 795,
+    "name": "Dreamstime",
+    "description": "Stock photography marketplace",
+    "category": "SMA ke atas",
+    "url": "https://www.dreamstime.com/"
+  },
+  {
+    "id": 796,
+    "name": "Depositphotos",
+    "description": "Stock content marketplace",
+    "category": "SMA ke atas",
+    "url": "https://depositphotos.com/"
+  },
+  {
+    "id": 797,
+    "name": "Burst by Shopify",
+    "description": "Free stock photos untuk commercial use",
+    "category": "SMP ke atas",
+    "url": "https://burst.shopify.com/"
+  },
+  {
+    "id": 798,
+    "name": "StockVault",
+    "description": "Free stock photos, graphics, dan audio",
+    "category": "SMP ke atas",
+    "url": "https://www.stockvault.net/"
+  },
+  {
+    "id": 799,
+    "name": "Picjumbo",
+    "description": "Free stock photos untuk creative projects",
+    "category": "SMP ke atas",
+    "url": "https://picjumbo.com/"
+  },
+  {
+    "id": 800,
+    "name": "Gratisography",
+    "description": "Creative Commons stock photos",
+    "category": "SMP ke atas",
+    "url": "https://gratisography.com/"
+  }]]]]]]]
