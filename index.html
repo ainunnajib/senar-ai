@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senarai - Belajar Skill Abad 21 | Kurikulum Masa Depan Anak Indonesia</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Senarai Belajar Skill Abad 21 - Direktori aktivitas pembelajaran yang dikurasi komunitas untuk anak-anak Indonesia dari PAUD hingga Profesional. Fardhu 'ain untuk setiap manusia di abad ke-21.">
+    <meta name="keywords" content="senarai, belajar, skill abad 21, pembelajaran anak, PAUD, pendidikan Indonesia, coding untuk anak, STEM">
+    <meta name="author" content="Senarai Community">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://senar.ai/">
+    <meta property="og:title" content="Senarai - Belajar Skill Abad 21">
+    <meta property="og:description" content="Direktori aktivitas pembelajaran yang dikurasi komunitas untuk anak-anak Indonesia dari PAUD hingga Profesional. Fardhu 'ain untuk setiap manusia di abad ke-21.">
+    <meta property="og:image" content="https://senar.ai/og-image.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://senar.ai/">
+    <meta property="twitter:title" content="Senarai - Belajar Skill Abad 21">
+    <meta property="twitter:description" content="Direktori aktivitas pembelajaran yang dikurasi komunitas untuk anak-anak Indonesia dari PAUD hingga Profesional.">
+    <meta property="twitter:image" content="https://senar.ai/og-image.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            50: '#f0f9f0',
+                            100: '#dcf2dc', 
+                            500: '#22c55e',
+                            600: '#16a34a',
+                            700: '#15803d'
+                        },
+                        accent: {
+                            50: '#fff7ed',
+                            100: '#ffedd5',
+                            500: '#f97316', 
+                            600: '#ea580c'
+                        },
+                        secondary: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            500: '#3b82f6',
+                            600: '#2563eb'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-gradient-to-br from-primary-50 via-white to-accent-50">
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-white/90 backdrop-blur-sm shadow-lg">
+        <nav class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 bg-gradient-to-r from-primary-500 to-accent-500 rounded-xl flex items-center justify-center text-white font-bold text-lg">
+                        S
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold text-gray-800">Senarai</h1>
+                        <p class="text-xs text-gray-600">Skill Abad 21</p>
+                    </div>
+                </div>
+                
+                <div class="hidden md:flex items-center space-x-6">
+                    <a href="#beranda" class="text-gray-700 hover:text-primary-600 transition-colors">Beranda</a>
+                    <a href="#aktivitas" class="text-gray-700 hover:text-primary-600 transition-colors">Aktivitas</a>
+                    <a href="#tentang" class="text-gray-700 hover:text-primary-600 transition-colors">Tentang</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3mkw1HYUkRklU_sRTk5qgdr_jItqxR7wAjP_W0uEU8HBRqA/viewform" target="_blank" class="bg-primary-500 text-white px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors">
+                        Kontribusi
+                    </a>
+                </div>
+                
+                <!-- Mobile menu button -->
+                <button id="mobile-menu-btn" class="md:hidden p-2 text-gray-600">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                    </svg>
+                </button>
+            </div>
+            
+            <!-- Mobile menu -->
+            <div id="mobile-menu" class="hidden md:hidden mt-4 pb-4 border-t border-gray-100">
+                <div class="flex flex-col space-y-3 pt-4">
+                    <a href="#beranda" class="text-gray-700 hover:text-primary-600 transition-colors">Beranda</a>
+                    <a href="#aktivitas" class="text-gray-700 hover:text-primary-600 transition-colors">Aktivitas</a>
+                    <a href="#tentang" class="text-gray-700 hover:text-primary-600 transition-colors">Tentang</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3mkw1HYUkRklU_sRTk5qgdr_jItqxR7wAjP_W0uEU8HBRqA/viewform" target="_blank" class="bg-primary-500 text-white px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors text-center">
+                        Kontribusi
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="beranda" class="py-20 lg:py-32">
+        <div class="container mx-auto px-4">
+            <div class="text-center max-w-4xl mx-auto">
+                <div class="inline-flex items-center bg-primary-100 text-primary-700 px-4 py-2 rounded-full text-sm font-medium mb-6">
+                    🌟 Dikurasi oleh komunitas untuk masa depan anak Indonesia
+                </div>
+                
+                <h1 class="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+                    <span class="text-primary-600">Senarai</span> Belajar<br>
+                    <span class="bg-gradient-to-r from-accent-500 to-secondary-500 bg-clip-text text-transparent">
+                        Skill Abad 21
+                    </span>
+                </h1>
+                
+                <p class="text-xl lg:text-2xl text-gray-600 mb-8 leading-relaxed">
+                    Direktori aktivitas pembelajaran untuk anak-anak Indonesia dari PAUD hingga Profesional.<br>
+                    <span class="text-primary-600 font-medium">فَرْضُ عَيْنٍ</span> untuk setiap manusia di abad ke-21.
+                </p>
+                
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="#aktivitas" class="bg-primary-500 text-white px-8 py-4 rounded-xl hover:bg-primary-600 transition-all duration-300 transform hover:scale-105 font-medium">
+                        Jelajahi Aktivitas
+                    </a>
+                    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUXjZ5M1lL9thjOEeNJxKsvE3VQ8i3XXUt8ryKWiya1HdapIcLuMUHKZ-VWECqCcX-cPKCZYzPXVvY/pubhtml" target="_blank" class="bg-white text-gray-700 px-8 py-4 rounded-xl border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-all duration-300 font-medium">
+                        Database Mentah
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Statistics -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+                <div class="text-center">
+                    <div class="text-3xl lg:text-4xl font-bold text-primary-600" id="total-activities">98</div>
+                    <div class="text-gray-600 mt-2">Aktivitas</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl lg:text-4xl font-bold text-accent-500">12</div>
+                    <div class="text-gray-600 mt-2">Kategori Usia</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl lg:text-4xl font-bold text-secondary-500">∞</div>
+                    <div class="text-gray-600 mt-2">Potensi Belajar</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl lg:text-4xl font-bold text-primary-600">🇮🇩</div>
+                    <div class="text-gray-600 mt-2">Untuk Indonesia</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Activities Section -->
+    <section id="aktivitas" class="py-20">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                    Eksplorasi Aktivitas Pembelajaran
+                </h2>
+                <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+                    Temukan aktivitas yang tepat untuk mengembangkan skill abad 21 sesuai dengan usia dan minat
+                </p>
+            </div>
+
+            <!-- Filter Controls -->
+            <div class="bg-white rounded-2xl shadow-lg p-6 mb-12">
+                <!-- Search Bar -->
+                <div class="mb-6">
+                    <div class="relative">
+                        <input 
+                            type="text" 
+                            id="search-input"
+                            placeholder="Cari aktivitas, alat, atau platform..." 
+                            class="w-full pl-12 pr-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-primary-500 focus:border-transparent text-lg"
+                        >
+                        <div class="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category Filters -->
+                <div class="mb-4">
+                    <h3 class="text-sm font-semibold text-gray-700 mb-3">Filter berdasarkan kategori usia:</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <button class="category-filter active bg-primary-500 text-white px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors text-sm font-medium" data-category="all">
+                            Semua
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="PAUD">
+                            PAUD
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="PAUD ke atas">
+                            PAUD+
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SD">
+                            SD
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SD ke atas">
+                            SD+
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SMP">
+                            SMP
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SMP ke atas">
+                            SMP+
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SMA">
+                            SMA
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="SMA ke atas">
+                            SMA+
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="Kuliah">
+                            Kuliah
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="Profesional">
+                            Profesional
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="Semua Usia">
+                            Semua Usia
+                        </button>
+                        <button class="category-filter bg-gray-100 text-gray-700 px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors text-sm" data-category="For Parents">
+                            For Parents
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Results Count -->
+                <div class="text-sm text-gray-600">
+                    Menampilkan <span id="results-count">98</span> aktivitas
+                </div>
+            </div>
+
+            <!-- Activities Grid -->
+            <div id="activities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Activities will be populated by JavaScript -->
+            </div>
+
+            <!-- No results message -->
+            <div id="no-results" class="hidden text-center py-16">
+                <div class="text-6xl mb-4">🔍</div>
+                <h3 class="text-xl font-semibold text-gray-700 mb-2">Tidak ada aktivitas yang ditemukan</h3>
+                <p class="text-gray-500">Coba ubah kata kunci pencarian atau filter kategori</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="tentang" class="py-20 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto">
+                <div class="text-center mb-16">
+                    <h2 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+                        Tentang Senarai
+                    </h2>
+                    <p class="text-lg text-gray-600">
+                        Membangun masa depan melalui pembelajaran yang bermakna
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
+                    <div>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-4">Misi Kami</h3>
+                        <p class="text-gray-600 mb-6 leading-relaxed">
+                            Senarai hadir dengan misi menghadirkan direktori aktivitas pembelajaran yang komprehensif dan mudah diakses. Kami percaya bahwa setiap anak Indonesia berhak mendapatkan pendidikan berkualitas yang mempersiapkan mereka untuk masa depan.
+                        </p>
+                        <p class="text-gray-600 leading-relaxed">
+                            Filosofi kami: <span class="text-primary-600 font-medium">"فَرْضُ عَيْنٍ untuk setiap manusia di abad ke-21"</span> - skill digital dan pembelajaran sepanjang hayat adalah kewajiban individual yang harus dimiliki setiap orang di era modern.
+                        </p>
+                    </div>
+                    <div class="bg-gradient-to-br from-primary-50 to-accent-50 p-8 rounded-2xl">
+                        <div class="space-y-4">
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-primary-500 rounded-full flex items-center justify-center text-white text-sm">✓</div>
+                                <span class="text-gray-700">Kurikulum yang dikurasi komunitas</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-accent-500 rounded-full flex items-center justify-center text-white text-sm">✓</div>
+                                <span class="text-gray-700">Aktivitas dari PAUD hingga Profesional</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-secondary-500 rounded-full flex items-center justify-center text-white text-sm">✓</div>
+                                <span class="text-gray-700">Focus pada skill abad 21</span>
+                            </div>
+                            <div class="flex items-center space-x-3">
+                                <div class="w-8 h-8 bg-primary-600 rounded-full flex items-center justify-center text-white text-sm">✓</div>
+                                <span class="text-gray-700">Terbuka dan dapat diakses semua</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-gray-50 rounded-2xl p-8">
+                    <h3 class="text-xl font-bold text-gray-900 mb-4 text-center">Ikut Berkontribusi</h3>
+                    <p class="text-gray-600 text-center mb-6">
+                        Senarai adalah proyek komunitas yang tumbuh bersama kontribusi dari para pendidik, orangtua, dan pemerhati pendidikan Indonesia.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3mkw1HYUkRklU_sRTk5qgdr_jItqxR7wAjP_W0uEU8HBRqA/viewform" target="_blank" class="bg-primary-500 text-white px-6 py-3 rounded-lg hover:bg-primary-600 transition-colors text-center font-medium">
+                            Tambah Aktivitas
+                        </a>
+                        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUXjZ5M1lL9thjOEeNJxKsvE3VQ8i3XXUt8ryKWiya1HdapIcLuMUHKZ-VWECqCcX-cPKCZYzPXVvY/pubhtml" target="_blank" class="bg-white text-gray-700 px-6 py-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-center font-medium">
+                            Lihat Database
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="text-center">
+                <div class="flex items-center justify-center space-x-3 mb-4">
+                    <div class="w-8 h-8 bg-gradient-to-r from-primary-500 to-accent-500 rounded-lg flex items-center justify-center text-white font-bold">
+                        S
+                    </div>
+                    <span class="text-xl font-bold">Senarai</span>
+                </div>
+                <p class="text-gray-400 mb-6">
+                    Dikurasi oleh komunitas untuk masa depan anak Indonesia 🇮🇩
+                </p>
+                <div class="flex flex-col sm:flex-row gap-6 justify-center items-center text-sm text-gray-400">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3mkw1HYUkRklU_sRTk5qgdr_jItqxR7wAjP_W0uEU8HBRqA/viewform" target="_blank" class="hover:text-white transition-colors">
+                        Kontribusi Aktivitas
+                    </a>
+                    <span class="hidden sm:inline">•</span>
+                    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUXjZ5M1lL9thjOEeNJxKsvE3VQ8i3XXUt8ryKWiya1HdapIcLuMUHKZ-VWECqCcX-cPKCZYzPXVvY/pubhtml" target="_blank" class="hover:text-white transition-colors">
+                        Database Mentah
+                    </a>
+                    <span class="hidden sm:inline">•</span>
+                    <span>
+                        Made with ❤️ for Indonesian children
+                    </span>
+                </div>
+                <div class="mt-6 pt-6 border-t border-gray-800 text-xs text-gray-500">
+                    © 2024 Senarai. All rights reserved. Built with community love.
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Activities data embedded as JSON
+        const activitiesData = [
+            {"id": 1, "name": "Senarai's Multiple Literacies", "description": "Our own attempt in defining multiple literacies for 21st century. Mental modelnya: fardhu 'ain untuk setiap manusia di abad ke-21", "category": "For Parents"},
+            {"id": 2, "name": "Tiny Thinkers", "description": "Daftar aktivitas/permainan online & offline untuk Computational Thinking anak-anak mulai usia 4 tahun ke atas", "category": "PAUD ke atas"},
+            {"id": 3, "name": "CS Unplugged", "description": "Belajar computer science tanpa perlu komputer. Aktivitas menarik sehari-hari.", "category": "SD ke atas"},
+            {"id": 4, "name": "Typing Club", "description": "Belajar huruf dan 10-finger-typing buat anak-anak", "category": "SD ke atas"},
+            {"id": 5, "name": "Typer Shark Deluxe", "description": "Game komputer (Windows) mengetik 10 jari", "category": "SD ke atas"},
+            {"id": 6, "name": "Belajar Dasar Catur", "description": "Belajar langkah & aturan catur dari nol", "category": "Semua Usia"},
+            {"id": 7, "name": "Aplikasi Khan Academy Kids", "description": "Menemani anak usia 2-8 tahun belajar", "category": "PAUD"},
+            {"id": 8, "name": "Khan Academy", "description": "Referensi belajar daring bagi anak, guru, dan orang tua", "category": "Semua Usia"},
+            {"id": 9, "name": "Code Spark", "description": "Aplikasi berbayar gamifikasi building block", "category": "PAUD ke atas"},
+            {"id": 10, "name": "Forest School", "description": "Aktivitas di alam yang terpimpin oleh anak", "category": "PAUD ke atas"},
+            {"id": 11, "name": "Conversation Cards", "description": "Kartu-kartu untuk memulai obrolan bebas bersama anak-anak", "category": "Semua Usia"},
+            {"id": 12, "name": "Big Life Journal", "description": "Science-based journals to raise kind, resilient, confident children", "category": "PAUD ke atas"},
+            {"id": 13, "name": "Premier Piano Course", "description": "Buku kursus piano untuk anak", "category": "SD ke atas"},
+            {"id": 14, "name": "Young Engineers", "description": "Belajar robotik dan STEM menggunakan LEGO", "category": "PAUD ke atas"},
+            {"id": 15, "name": "Codeforces", "description": "Belajar programming secara kompetitif", "category": "SD ke atas"},
+            {"id": 16, "name": "TLX (Tim Olimpiade Komputer Indonesia)", "description": "Belajar programming secara kompetitif", "category": "SD ke atas"},
+            {"id": 17, "name": "Kattis", "description": "Belajar programming secara kompetitif", "category": "SD ke atas"},
+            {"id": 18, "name": "LeetCode", "description": "Platform berlatih interview & tes programming", "category": "Profesional"},
+            {"id": 19, "name": "Matific", "description": "Math learning platform", "category": "PAUD ke atas"},
+            {"id": 20, "name": "Koobits", "description": "Math learning platform", "category": "SD ke atas"},
+            {"id": 21, "name": "Matholia", "description": "Math learning platform", "category": "SD ke atas"},
+            {"id": 22, "name": "Code Monkey", "description": "Kids friendly coding introduction", "category": "PAUD ke atas"},
+            {"id": 23, "name": "Scratch (MIT)", "description": "Visual coding", "category": "SD ke atas"},
+            {"id": 24, "name": "Snap (Berkeley)", "description": "Visual coding", "category": "SD ke atas"},
+            {"id": 25, "name": "Node RED", "description": "Visual coding for IoT devices", "category": "SMP ke atas"},
+            {"id": 26, "name": "LEGO Education", "description": "Learn STEM, Robotics, Visual Coding", "category": "SD ke atas"},
+            {"id": 27, "name": "LEGO Education BricQ", "description": "STEM with LEGO", "category": "SD ke atas"},
+            {"id": 28, "name": "LEGO Boost", "description": "LEGO robotics", "category": "SD"},
+            {"id": 29, "name": "LEGO Education WeDo 2.0", "description": "Early robotics", "category": "PAUD"},
+            {"id": 30, "name": "First LEGO League", "description": "LEGO competition", "category": "SD ke atas"},
+            {"id": 31, "name": "Elenco Snap Circuit", "description": "Belajar circuitry (sirkuit elektronik)", "category": "SD"},
+            {"id": 32, "name": "Elenco educational toys", "description": "Educational toys dari Elenco", "category": "PAUD ke atas"},
+            {"id": 33, "name": "Machine Learning for Kids", "description": "Scratch untuk belajar ML", "category": "SD ke atas"},
+            {"id": 34, "name": "while True: learn()", "description": "Game to learn coding & ML", "category": "SD ke atas"},
+            {"id": 35, "name": "Swift Playground", "description": "Code in Mac or iPad", "category": "PAUD ke atas"},
+            {"id": 36, "name": "FreeCodeCamp", "description": "Free coding learning platform", "category": "SMP ke atas"},
+            {"id": 37, "name": "Python for Everybody - Coursera", "description": "Top rated Python course", "category": "SD ke atas"},
+            {"id": 38, "name": "Little Pim", "description": "Belajar bahasa asing untuk anak, metode Pimsleur", "category": "PAUD ke atas"},
+            {"id": 39, "name": "Barbara Oakley's Learning How to Learn", "description": "Meta learning", "category": "SMP ke atas"},
+            {"id": 40, "name": "Barbara Oakley's books", "description": "How to learn", "category": "SMP ke atas"},
+            {"id": 41, "name": "Exercism", "description": "Free programming languages learning", "category": "SD ke atas"},
+            {"id": 42, "name": "Book - Thrivers", "description": "Build character strength of children", "category": "For Parents"},
+            {"id": 43, "name": "Book - UnSelfie", "description": "To teach empathy", "category": "For Parents"},
+            {"id": 44, "name": "HSP test", "description": "Online test to assess sensitivity", "category": "For Parents"},
+            {"id": 45, "name": "Book - The Highly Sensitive Child", "description": "", "category": "For Parents"},
+            {"id": 46, "name": "Books about highly sensitive person", "description": "Elaine N. Aron", "category": "For Parents"},
+            {"id": 47, "name": "Common Sense", "description": "Parenting in digital age", "category": "For Parents"},
+            {"id": 48, "name": "Wide Open School", "description": "Trusted resources for distance learning", "category": "For Parents"},
+            {"id": 49, "name": "Khan Academy Distance Learning Guide", "description": "", "category": "For Parents"},
+            {"id": 50, "name": "Bebras", "description": "Computational Thinking initiative", "category": "SD ke atas"},
+            {"id": 51, "name": "Bebras Indonesia", "description": "Bebras versi Indonesia", "category": "SD ke atas"},
+            {"id": 52, "name": "Bebras online challenge", "description": "", "category": "SD ke atas"},
+            {"id": 53, "name": "Khan Academy Kids Printable Activities", "description": "", "category": "PAUD"},
+            {"id": 54, "name": "MoE Singapore 21st century competencies", "description": "", "category": "For Parents"},
+            {"id": 55, "name": "Big History Projects", "description": "History of universe, by Bill Gates", "category": "SD ke atas"},
+            {"id": 56, "name": "Mr Rogers", "description": "Character building via TV shows", "category": "PAUD ke atas"},
+            {"id": 57, "name": "PBS Kids Mister Rogers", "description": "Watch Mister Rogers", "category": "PAUD ke atas"},
+            {"id": 58, "name": "PBS Kids YouTube Mister Rogers", "description": "", "category": "PAUD ke atas"},
+            {"id": 59, "name": "Roblox", "description": "Virtual learning platform", "category": "SD ke atas"},
+            {"id": 60, "name": "Minecraft", "description": "Virtual world for kids", "category": "SD ke atas"},
+            {"id": 61, "name": "Tinkercad", "description": "3D design for children", "category": "SD ke atas"},
+            {"id": 62, "name": "MakeIT Lab @ National Libraries (SG only)", "description": "", "category": "SD ke atas"},
+            {"id": 63, "name": "Envato", "description": "Marketplace of digital creative assets", "category": "SMA ke atas"},
+            {"id": 64, "name": "Replit", "description": "Code collaboration platform", "category": "SD ke atas"},
+            {"id": 65, "name": "GitHub Learning Lab", "description": "Learn Git with GitHub", "category": "SMP ke atas"},
+            {"id": 66, "name": "Creative Market", "description": "Marketplace for designs", "category": "SMP ke atas"},
+            {"id": 67, "name": "Selingkar literasi", "description": "Kegiatan berbasis literasi", "category": "PAUD ke atas"},
+            {"id": 68, "name": "Literacy Cloud", "description": "Baca buku berkualitas gratis", "category": "Semua Usia"},
+            {"id": 69, "name": "Let's read asia", "description": "Platform baca buku gratis", "category": "PAUD ke atas"},
+            {"id": 70, "name": "Beast Academy", "description": "Math yang lebih challenging", "category": "SD ke atas"},
+            {"id": 71, "name": "Art of Problem Solving", "description": "Math challenging", "category": "SMP"},
+            {"id": 72, "name": "Coding for Kids", "description": "Dasar pemrograman usia 5-12", "category": "PAUD"},
+            {"id": 73, "name": "Belajar Bahasa", "description": "Belajar bahasa game-based", "category": "Semua Usia"},
+            {"id": 74, "name": "7 habits for highly effective people", "description": "Pengembangan diri", "category": "SMA"},
+            {"id": 75, "name": "Aikido Orchid Dojo (Bekasi)", "description": "Bela diri", "category": "Semua Usia"},
+            {"id": 76, "name": "Literasi tulis", "description": "Kecerdasan literasi", "category": "SD"},
+            {"id": 77, "name": "TPQ Online ALBATA", "description": "Belajar Al Quran & Islam dasar online", "category": "PAUD ke atas"},
+            {"id": 78, "name": "Enuma Indonesia", "description": "Literasi bahasa Indonesia app", "category": "PAUD ke atas"},
+            {"id": 79, "name": "Belajar Design", "description": "UI Design learning path", "category": "SMP ke atas"},
+            {"id": 80, "name": "Upskill untuk entrepreneur & profesional", "description": "", "category": "Profesional"},
+            {"id": 81, "name": "LingoKids", "description": "Aplikasi bermain dan belajar", "category": "PAUD"},
+            {"id": 82, "name": "Buku Gen Z Developer", "description": "Software development", "category": "SMP ke atas"},
+            {"id": 83, "name": "Kalananti Coding", "description": "Coding usia 5-12", "category": "SD"},
+            {"id": 84, "name": "Novakid English School", "description": "Online English private", "category": "PAUD ke atas"},
+            {"id": 85, "name": "Monkey Stories", "description": "Belajar English game-based 2-10 tahun", "category": "PAUD ke atas"},
+            {"id": 86, "name": "Little Public Speaker", "description": "Kelas public speaking 4-7", "category": "PAUD ke atas"},
+            {"id": 87, "name": "Mobile App Builder", "description": "Membuat mobile app", "category": "SMP ke atas"},
+            {"id": 88, "name": "Wordpress", "description": "Membuat website", "category": "SMA ke atas"},
+            {"id": 89, "name": "Github Education Pack", "description": "Lisensi dan sumber belajar pelajar", "category": "Kuliah"},
+            {"id": 90, "name": "IDCamp", "description": "Beasiswa coding Indosat & Dicoding", "category": "Profesional"},
+            {"id": 91, "name": "Digital Talent Scholarship Kominfo", "description": "Beasiswa talenta digital", "category": "Profesional"},
+            {"id": 92, "name": "IXL", "description": "Math dan English TK ke atas", "category": "PAUD ke atas"},
+            {"id": 93, "name": "Brilliant", "description": "Interactive STEM courses", "category": "SD ke atas"},
+            {"id": 94, "name": "DK findout", "description": "Ilmu pengetahuan dari DK publishing", "category": "SD"},
+            {"id": 95, "name": "Belajar Menjadi UI Designer", "description": "UI Design panduan", "category": "SMP ke atas"},
+            {"id": 96, "name": "Code.org", "description": "Belajar coding", "category": "SD ke atas"},
+            {"id": 97, "name": "EveryChild.SG", "description": "Advokasi pendidikan masa depan SG", "category": "For Parents"},
+            {"id": 98, "name": "Ambleside Online", "description": "Kurikulum homeschooling gratis Charlotte Mason", "category": "For Parents"}
+        ];
+
+        let filteredActivities = [...activitiesData];
+
+        // Category color mapping
+        const categoryColors = {
+            'PAUD': 'bg-pink-100 text-pink-700 border-pink-200',
+            'PAUD ke atas': 'bg-pink-50 text-pink-600 border-pink-200',
+            'SD': 'bg-blue-100 text-blue-700 border-blue-200',
+            'SD ke atas': 'bg-blue-50 text-blue-600 border-blue-200',
+            'SMP': 'bg-purple-100 text-purple-700 border-purple-200',
+            'SMP ke atas': 'bg-purple-50 text-purple-600 border-purple-200',
+            'SMA': 'bg-indigo-100 text-indigo-700 border-indigo-200',
+            'SMA ke atas': 'bg-indigo-50 text-indigo-600 border-indigo-200',
+            'Kuliah': 'bg-green-100 text-green-700 border-green-200',
+            'Profesional': 'bg-gray-100 text-gray-700 border-gray-200',
+            'Semua Usia': 'bg-orange-100 text-orange-700 border-orange-200',
+            'For Parents': 'bg-red-100 text-red-700 border-red-200'
+        };
+
+        // Function to create activity card
+        function createActivityCard(activity) {
+            const colorClass = categoryColors[activity.category] || 'bg-gray-100 text-gray-700 border-gray-200';
+            
+            return `
+                <div class="activity-card bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 p-6 border border-gray-100 hover:border-primary-200">
+                    <div class="flex justify-between items-start mb-4">
+                        <h3 class="text-lg font-semibold text-gray-900 leading-tight">${activity.name}</h3>
+                        <span class="text-xs px-2 py-1 rounded-full border font-medium ml-2 flex-shrink-0 ${colorClass}">
+                            ${activity.category}
+                        </span>
+                    </div>
+                    <p class="text-gray-600 text-sm leading-relaxed">
+                        ${activity.description || 'Aktivitas pembelajaran yang dirancang untuk mengembangkan keterampilan abad 21.'}
+                    </p>
+                </div>
+            `;
+        }
+
+        // Function to render activities
+        function renderActivities() {
+            const grid = document.getElementById('activities-grid');
+            const noResults = document.getElementById('no-results');
+            const resultsCount = document.getElementById('results-count');
+
+            if (filteredActivities.length === 0) {
+                grid.innerHTML = '';
+                grid.classList.add('hidden');
+                noResults.classList.remove('hidden');
+            } else {
+                grid.classList.remove('hidden');
+                noResults.classList.add('hidden');
+                grid.innerHTML = filteredActivities.map(createActivityCard).join('');
+            }
+
+            resultsCount.textContent = filteredActivities.length;
+        }
+
+        // Function to filter activities
+        function filterActivities() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const activeCategory = document.querySelector('.category-filter.active').dataset.category;
+
+            filteredActivities = activitiesData.filter(activity => {
+                const matchesSearch = searchTerm === '' || 
+                    activity.name.toLowerCase().includes(searchTerm) ||
+                    activity.description.toLowerCase().includes(searchTerm) ||
+                    activity.category.toLowerCase().includes(searchTerm);
+
+                const matchesCategory = activeCategory === 'all' || activity.category === activeCategory;
+
+                return matchesSearch && matchesCategory;
+            });
+
+            renderActivities();
+        }
+
+        // Event listeners
+        document.getElementById('search-input').addEventListener('input', filterActivities);
+
+        // Category filter buttons
+        document.querySelectorAll('.category-filter').forEach(button => {
+            button.addEventListener('click', () => {
+                document.querySelectorAll('.category-filter').forEach(btn => {
+                    btn.classList.remove('active', 'bg-primary-500', 'text-white');
+                    btn.classList.add('bg-gray-100', 'text-gray-700');
+                });
+                
+                button.classList.add('active', 'bg-primary-500', 'text-white');
+                button.classList.remove('bg-gray-100', 'text-gray-700');
+                
+                filterActivities();
+            });
+        });
+
+        // Mobile menu toggle
+        document.getElementById('mobile-menu-btn').addEventListener('click', () => {
+            const mobileMenu = document.getElementById('mobile-menu');
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+                
+                // Close mobile menu after click
+                document.getElementById('mobile-menu').classList.add('hidden');
+            });
+        });
+
+        // Initial render
+        renderActivities();
+    </script>
+</body>
+</html>
